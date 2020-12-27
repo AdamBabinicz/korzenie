@@ -35,7 +35,7 @@ export const NavbarContainer = styled.div`
 
 export const GiTreeRootsIcon = styled.div`
   font-size: 3rem;
-  color: rgb(245, 243, 243);
+  color: rgba(245, 243, 243, 0.7);
   margin: 1rem 0;
 `;
 
@@ -94,7 +94,7 @@ export const NavItem = styled.li`
 `;
 
 export const NavLinks = styled(LinkS)`
-  color: rgb(245, 243, 243);
+  color: rgba(245, 243, 243, 0.7);
   display: flex;
   align-items: center;
   text-decoration: none;
@@ -109,7 +109,7 @@ export const NavLinks = styled(LinkS)`
   }
 
   &:hover {
-    color: rgb(170, 169, 169);
+    color: rgb(245, 243, 243);
   }
 `;
 
