@@ -18,19 +18,19 @@ const Services = () => {
       <ServicesH1>Archiwum</ServicesH1>
       <ServicesWrapper>
         <ServicesCard>
-          <ServicesIcon src={Icon1} />
+          <ServicesIcon src={Icon1} alt={Icon1} />
           <ServicesH2>Nieznane osoby</ServicesH2>
           <ServicesP>
             Prawdopodobnie pierwsza żona dziadka Józefa Ofiary.
           </ServicesP>
         </ServicesCard>
         <ServicesCard>
-          <ServicesIcon src={Icon2} />
+          <ServicesIcon src={Icon2} alt={Icon2} />
           <ServicesH2>Jan Gierczak</ServicesH2>
           <ServicesP>Zmarł przed moimi urodzinami.</ServicesP>
         </ServicesCard>
         <ServicesCard>
-          <ServicesIcon src={Icon3} />
+          <ServicesIcon src={Icon3} alt={Icon3} />
           <ServicesH2>Emilija Sobień</ServicesH2>
           <ServicesP>Oryginalny podpis z tyłu zdjęcia.</ServicesP>
         </ServicesCard>
