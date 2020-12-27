@@ -27,17 +27,17 @@ const Footer = () => {
         <FooterLinksContainer>
           <FooterLinksWrapper>
             <FooterLinkItems>
-              <FooterLinkTitle>About Us</FooterLinkTitle>
-              {/* <FooterLink to="/signin">How it works</FooterLink>
-              <FooterLink to="/signin">Testimonials</FooterLink>
+              <FooterLinkTitle>Polityka prywatności</FooterLinkTitle>
+              <FooterLink to="/modal">Czytaj</FooterLink>
+              {/*<FooterLink to="/signin">Testimonials</FooterLink>
               <FooterLink to="/signin">Careers</FooterLink>
               <FooterLink to="/signin">Investors</FooterLink>
               <FooterLink to="/signin">Terms od Service</FooterLink> */}
             </FooterLinkItems>
             <FooterLinkItems>
-              <FooterLinkTitle>Contact Us</FooterLinkTitle>
-              {/* <FooterLink to="/signin">How it works</FooterLink>
-              <FooterLink to="/signin">Testimonials</FooterLink>
+              <FooterLinkTitle>Kontakt</FooterLinkTitle>
+              <FooterLink to="/">Napisz do mnie</FooterLink>
+              {/*<FooterLink to="/signin">Testimonials</FooterLink>
               <FooterLink to="/signin">Careers</FooterLink>
               <FooterLink to="/signin">Investors</FooterLink>
               <FooterLink to="/signin">Terms od Service</FooterLink> */}
@@ -45,9 +45,9 @@ const Footer = () => {
           </FooterLinksWrapper>
           <FooterLinksWrapper>
             <FooterLinkItems>
-              <FooterLinkTitle>Videos</FooterLinkTitle>
-              {/* <FooterLink to="/signin">How it works</FooterLink>
-              <FooterLink to="/signin">Testimonials</FooterLink>
+              <FooterLinkTitle>Video</FooterLinkTitle>
+              <FooterLink to="/">Zakrzew</FooterLink>
+              {/*<FooterLink to="/signin">Testimonials</FooterLink>
               <FooterLink to="/signin">Careers</FooterLink>
               <FooterLink to="/signin">Investors</FooterLink>
               <FooterLink to="/signin">Terms od Service</FooterLink> */}

@@ -125,6 +125,5 @@ export const SocialIconLink = styled.a`
 
   &:hover {
     color: rgb(90, 89, 89);
-    color: red !important;
   }
 `;
