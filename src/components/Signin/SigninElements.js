@@ -27,6 +27,7 @@ export const ContainerH1 = styled.h1`
   font-size: 4rem;
   margin-bottom: 2rem;
   text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
+  color: rgb(245, 243, 243);
 `;
 
 export const FormWrap = styled.div`
@@ -44,7 +45,7 @@ export const FormWrap = styled.div`
 
 export const GiTreeRootsIcon = styled.div`
   font-size: 3rem;
-  color: #333;
+  color: rgb(170, 169, 169);
   margin-right: 1rem;
   text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
 `;
@@ -52,10 +53,12 @@ export const Icon = styled(Link)`
   /* margin-left: 32px; */
   /* margin-top: 32px; */
   text-decoration: none;
-  font-weight: 700;
+  font-weight: 100;
   color: rgb(90, 89, 89);
+  color: rgb(170, 169, 169);
   font-size: 32px;
   transition: all 0.3s ease-in-out;
+  text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
 
   &:hover {
     color: #fff;

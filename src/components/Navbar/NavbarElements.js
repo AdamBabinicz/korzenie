@@ -35,7 +35,7 @@ export const NavbarContainer = styled.div`
 
 export const GiTreeRootsIcon = styled.div`
   font-size: 3rem;
-  color: #fff;
+  color: rgb(245, 243, 243);
   margin: 1rem 0;
 `;
 
