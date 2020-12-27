@@ -105,7 +105,7 @@ export const FamilyH2 = styled.div`
 
 export const ContainerP = styled.p`
   font-size: 1.3rem;
-  background: rgb(90, 89, 89);
+  background: rgba(90, 89, 89, 0.6);
   color: #fff;
   padding: 0.5rem 1rem;
   margin-top: 1rem;
