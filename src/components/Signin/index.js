@@ -34,7 +34,7 @@ const SignIn = () => {
         <ContainerH1>Praprzodkowie</ContainerH1>
         <ContainerWrap>
           <FamilyH2>Ambroży Gierczak</FamilyH2>
-          <FamilyH2>Lorem ipsum</FamilyH2>
+          <FamilyH2>Kunegunda</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 18xx</ContainerP>
         <ArrowIcon>
@@ -42,7 +42,7 @@ const SignIn = () => {
         </ArrowIcon>
         <ContainerWrap>
           <FamilyH2>Karol Gierczak</FamilyH2>
-          <FamilyH2>Lorem ipsum</FamilyH2>
+          <FamilyH2>Tekla Kozyra</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 18xx</ContainerP>
         <ArrowIcon>
@@ -53,6 +53,7 @@ const SignIn = () => {
           <FamilyH2>Katarzyna Czerwińska</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 1887</ContainerP>
+        <ContainerP>✝ 29.07.1935</ContainerP>
         <ArrowIcon>
           <CgArrowBottomLeft />
         </ArrowIcon>
@@ -60,7 +61,7 @@ const SignIn = () => {
           <FamilyH2>Jan Gierczak</FamilyH2>
           <FamilyH2>Agnieszka Baćmaga</FamilyH2>
         </ContainerWrap>
-        <ContainerP>ślub: 1917</ContainerP>
+        <ContainerP>ślub: 14.11.1917</ContainerP>
         <ArrowIcon>
           <CgArrowBottomLeft />
         </ArrowIcon>
