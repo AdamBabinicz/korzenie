@@ -127,3 +127,14 @@ export const SocialIconLink = styled.a`
     color: rgb(90, 89, 89);
   }
 `;
+
+export const Button = styled.button`
+  min-width: 100px;
+  padding: 16px 32px;
+  border-radius: 4px;
+  border: none;
+  background: #141414;
+  color: #fff;
+  font-size: 24px;
+  cursor: pointer;
+`;

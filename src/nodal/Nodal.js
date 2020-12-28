@@ -42,7 +42,7 @@ const ModalContainer = styled.div`
   }
 `;
 
-const Modal = () => {
+const Nodal = () => {
   return (
     <>
       <ScrollToTop />
@@ -228,7 +228,7 @@ const Modal = () => {
             rel="noopener noreferrer"
             target="_blank"
           >
-            &nbsp; korzenie.netlify.app/modal
+            &nbsp; korzenie.netlify.app/nodal
           </Link>
         </p>
         <br />
@@ -241,4 +241,4 @@ const Modal = () => {
   );
 };
 
-export default Modal;
+export default Nodal;

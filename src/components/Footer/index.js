@@ -1,6 +1,7 @@
-import React from "react";
+import React, { useState } from "react";
 import { animateScroll as scroll } from "react-scroll";
 import { FaFacebook, FaTwitter, FaGoogle, FaGithub } from "react-icons/fa";
+// import { Modal } from "../../components/Modal";
 import {
   FooterContainer,
   FooterWrap,
@@ -17,10 +18,15 @@ import {
   SocialIconLink,
 } from "./FooterElements";
 
-const Footer = () => {
+function Footer() {
+  // const [showModal, setShowModal] = useState(false);
+  // const openModal = () => {
+  //   setShowModal((prev) => !prev);
+  // };
   const toggleHome = () => {
     scroll.scrollToTop();
   };
+
   return (
     <FooterContainer>
       <FooterWrap>
@@ -28,30 +34,30 @@ const Footer = () => {
           <FooterLinksWrapper>
             <FooterLinkItems>
               <FooterLinkTitle>Polityka prywatności</FooterLinkTitle>
-              <FooterLink to="/modal">Czytaj</FooterLink>
+              <FooterLink to="/nodal">Czytaj</FooterLink>
               {/*<FooterLink to="/signin">Testimonials</FooterLink>
               <FooterLink to="/signin">Careers</FooterLink>
               <FooterLink to="/signin">Investors</FooterLink>
-              <FooterLink to="/signin">Terms od Service</FooterLink> */}
+              <FooterLink to="/signin">Terms od Service</FooterLink>*/}
             </FooterLinkItems>
-            <FooterLinkItems>
-              <FooterLinkTitle>Kontakt</FooterLinkTitle>
-              <FooterLink to="/">Napisz do mnie</FooterLink>
-              {/*<FooterLink to="/signin">Testimonials</FooterLink>
+            {/*<FooterLinkItems>
+                <FooterLinkTitle>Rody w Polsce</FooterLinkTitle>
+                <FooterLink to="/">Info</FooterLink> 
+              <FooterLink to="/signin">Testimonials</FooterLink>
               <FooterLink to="/signin">Careers</FooterLink>
               <FooterLink to="/signin">Investors</FooterLink>
-              <FooterLink to="/signin">Terms od Service</FooterLink> */}
-            </FooterLinkItems>
-          </FooterLinksWrapper>
-          <FooterLinksWrapper>
-            <FooterLinkItems>
-              <FooterLinkTitle>Video</FooterLinkTitle>
-              <FooterLink to="/">Zakrzew</FooterLink>
-              {/*<FooterLink to="/signin">Testimonials</FooterLink>
+              <FooterLink to="/signin">Terms od Service</FooterLink> 
+               </FooterLinkItems>
+            </FooterLinksWrapper>
+            <FooterLinksWrapper>
+              <FooterLinkItems>
+                <FooterLinkTitle>Video</FooterLinkTitle>
+                <FooterLink to="/">Zakrzew</FooterLink> 
+              <FooterLink to="/signin">Testimonials</FooterLink>
               <FooterLink to="/signin">Careers</FooterLink>
               <FooterLink to="/signin">Investors</FooterLink>
-              <FooterLink to="/signin">Terms od Service</FooterLink> */}
-            </FooterLinkItems>
+              <FooterLink to="/signin">Terms od Service</FooterLink> 
+               </FooterLinkItems> */}
             <FooterLinkItems>
               <FooterLinkTitle>Social Media</FooterLinkTitle>
               <FooterLink
@@ -132,6 +138,6 @@ const Footer = () => {
       </FooterWrap>
     </FooterContainer>
   );
-};
+}
 
 export default Footer;
