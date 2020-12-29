@@ -11,7 +11,7 @@ export const homeObjOne = {
   topLine: "Mój dziadek ze strony taty",
   headline: "Jan Gierczak",
   description:
-    "Urodził się w 18xx r. W 1917 r. ożenił się z Agnieszką z domu Baćmaga (rodzicami Agnieszki byli Kazimierz i Antonina Szewczyk). Małżonkowie mieli ośmioro dzieci: Jana, Mariannę, Janinę, Zofię, Stefana, Władysława, Tadeusza i Józefa, mojego tatę. Pierwsza trójka zmarła we wczesnym dzieciństwie.",
+    "Urodził się w 1891 r. W 1917 r. ożenił się z Agnieszką (ur. 1894 r.) z domu Baćmaga (rodzicami Agnieszki byli Kazimierz i Antonina Szewczyk). Małżonkowie mieli ośmioro dzieci: Jana, Mariannę, Janinę, Zofię, Stefana, Władysława, Tadeusza i Józefa - mojego tatę. Pierwsza trójka zmarła we wczesnym dzieciństwie.",
   buttonLabel: "Zobacz więcej",
   imgStart: false,
   img: img1,
@@ -29,7 +29,7 @@ export const homeObjTwo = {
   topLine: "Moja babcia ze strony mamy",
   headline: "Helena Ofiara z d. Sobień",
   description:
-    "Urodziła się w 1905 r. z rodziców Karola i Ewy Drużdżel. Była drugą żoną Józefa (wdowca po Rozalii z Mitaków); mieli sześcioro dzieci: Kazimierę, Genowefę, Andrzeja, Józefa, Mariannę, moją mamę i Romana (na zdjęciu). Pierwsza czwórka dzieci zmarła bardzo wcześnie. Razem z pozostałymi wychowywały się dzieci dziadka z pierwszego małżeństwa: Piotr, Stanisław i Jan.",
+    "Urodziła się w 1905 r. z rodziców Karola i Ewy Drużdżel. Była drugą żoną Józefa (ur. 1896 r. - Ludwików) - wdowca po Rozalii z Mitaków (33); mieli sześcioro dzieci: Kazimierę, Genowefę, Andrzeja, Józefa, Mariannę - moją mamę i Romana (na zdjęciu). Pierwsza czwórka dzieci zmarła bardzo wcześnie. Razem z pozostałymi wychowywały się dzieci dziadka z pierwszego małżeństwa: Piotr, Stanisław i Jan.",
   buttonLabel: "Zobacz więcej",
   imgStart: true,
   img: img2,

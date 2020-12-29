@@ -89,6 +89,13 @@ export const HeroP = styled.p`
   }
 `;
 
+export const HeroSpan = styled.span`
+  color: rgb(245, 243, 243);
+  font-size: 1.5rem;
+  margin-bottom: 3rem;
+  text-align: center;
+`;
+
 export const HeroBtnWrapper = styled.div`
   margin-top: 32px;
   display: flex;

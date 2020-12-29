@@ -8,6 +8,7 @@ import {
   HeroContent,
   HeroH1,
   HeroP,
+  HeroSpan,
   HeroBtnWrapper,
   ArrowForward,
   ArrowRight,
@@ -24,6 +25,10 @@ const HeroSection = () => {
         <VideoBg autoPlay loop muted src={Video} type="video/mp4" />
       </HeroBg>
       <HeroContent>
+        <HeroSpan>
+          W Polsce mieszka ok. 3600 osób z nazwiskiem Gierczak i&nbsp;ok. 820
+          osób z nazwiskiem Ofiara
+        </HeroSpan>
         <HeroH1>Nasi protoplaści</HeroH1>
         <HeroP>Im zawdzięczamy życie.</HeroP>
         <HeroBtnWrapper>

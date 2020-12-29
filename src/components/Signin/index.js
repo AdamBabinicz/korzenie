@@ -41,19 +41,18 @@ const SignIn = () => {
           <CgArrowBottomLeft />
         </ArrowIcon>
         <ContainerWrap>
-          <FamilyH2>Karol Gierczak</FamilyH2>
-          <FamilyH2>Tekla Kozyra</FamilyH2>
+          <FamilyH2>Karol Gierczak ✝1903</FamilyH2>
+          <FamilyH2>Tekla Kozyra ✝1909</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 18xx</ContainerP>
         <ArrowIcon>
           <CgArrowBottomLeft />
         </ArrowIcon>
         <ContainerWrap>
-          <FamilyH2>Paweł Gierczak</FamilyH2>
+          <FamilyH2>Paweł Gierczak ✝29.07.1935</FamilyH2>
           <FamilyH2>Katarzyna Czerwińska</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 1887</ContainerP>
-        <ContainerP>✝ 29.07.1935</ContainerP>
         <ArrowIcon>
           <CgArrowBottomLeft />
         </ArrowIcon>
