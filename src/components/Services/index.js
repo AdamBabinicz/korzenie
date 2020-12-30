@@ -20,7 +20,7 @@ const Services = () => {
         <ServicesCard>
           <ServicesIcon src={Icon1} alt={Icon1} />
           <ServicesH2>Nieznane osoby</ServicesH2>
-          <ServicesP>Prawdopodobnie rodzice mojej babci.</ServicesP>
+          <ServicesP>Prawdopodobnie rodzice mojej babci Heleny.</ServicesP>
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={Icon2} alt={Icon2} />
