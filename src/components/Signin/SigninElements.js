@@ -94,7 +94,7 @@ export const FamilyH2 = styled.div`
   /* margin-right: 1rem; */
   background: rgba(255, 255, 255, 0.609);
   text-align: center;
-  white-space: nowrap;
+  /* white-space: nowrap; */
   color: #333;
 
   @media screen and (max-width: 640px) {

@@ -58,7 +58,7 @@ const SignIn = () => {
         </ArrowIcon>
         <ContainerWrap>
           <FamilyH2>Jan Gierczak</FamilyH2>
-          <FamilyH2>Agnieszka Baćmaga</FamilyH2>
+          <FamilyH2>Agnieszka Baćmaga ✝08.11.1969</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 14.11.1917</ContainerP>
         <ArrowIcon>

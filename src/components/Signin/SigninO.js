@@ -41,8 +41,8 @@ const SignInO = () => {
           <CgArrowBottomLeft />
         </ArrowIcon>
         <ContainerWrap>
-          <FamilyH2>Józef Ofiara</FamilyH2>
-          <FamilyH2>Helena Sobień</FamilyH2>
+          <FamilyH2>Józef Ofiara ✝17.06.1968</FamilyH2>
+          <FamilyH2>Helena Sobień ✝06.09.1978</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 09.02.1926</ContainerP>
         <ArrowIcon>
