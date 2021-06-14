@@ -1,4 +1,5 @@
-import React from "react";
+import { useState } from "react";
+import Popup from "../../components/Popup";
 import { Button } from "../ButtonElements";
 import {
   InfoContainer,
@@ -13,6 +14,7 @@ import {
   BtnWrap,
   ImgWrap,
   Img,
+  ImgEnd,
 } from "./InfoElements";
 
 const InfoSection = ({
@@ -25,12 +27,19 @@ const InfoSection = ({
   darkText,
   description,
   buttonLabel,
+  buttonLabel1,
   img,
   alt,
   primary,
   dark,
   dark2,
+  cemetery,
+  grave,
+  image,
+  desc,
 }) => {
+  const [buttonPopup, setButtonPopup] = useState(false);
+
   return (
     <>
       <InfoContainer lightBg={lightBg} id={id}>
@@ -55,8 +64,27 @@ const InfoSection = ({
                   >
                     {buttonLabel}
                   </Button>
+                  <Button
+                    smooth={true}
+                    duration={500}
+                    spy={true}
+                    exact={true}
+                    offset={-80}
+                    primary={primary ? 1 : 0}
+                    dark={dark ? 1 : 0}
+                    dark2={dark2 ? 1 : 0}
+                    onClick={() => setButtonPopup(true)}
+                  >
+                    {buttonLabel1}
+                  </Button>
                 </BtnWrap>
               </TextWrapper>
+              <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
+                <h3>{cemetery}</h3>
+                <p>{desc}</p>
+                <p>{grave}</p>
+                <ImgEnd src={image} alt={alt} />
+              </Popup>
             </Column1>
             <Column2>
               <ImgWrap>

@@ -89,13 +89,19 @@ export const Subtitle = styled.p`
 
 export const BtnWrap = styled.div`
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-around;
 `;
 
 export const ImgWrap = styled.div`
   max-width: 555px;
   height: 100%;
   padding-top: 1rem;
+`;
+
+export const ImgEnd = styled.img`
+  width: 100%;
+  max-width: 400px;
+  margin-top: 2rem;
 `;
 
 export const Img = styled.img`
