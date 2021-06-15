@@ -37,8 +37,12 @@ const InfoSection = ({
   grave,
   image,
   desc,
+  par,
+  par1,
+  par2,
 }) => {
   const [buttonPopup, setButtonPopup] = useState(false);
+  const [buttonPopup1, setButtonPopup1] = useState(false);
 
   return (
     <>
@@ -52,7 +56,7 @@ const InfoSection = ({
                 <Subtitle darkText={darkText}>{description}</Subtitle>
                 <BtnWrap>
                   <Button
-                    to="home"
+                    onClick={() => setButtonPopup1(true)}
                     smooth={true}
                     duration={500}
                     spy={true}
@@ -84,6 +88,11 @@ const InfoSection = ({
                 <p>{desc}</p>
                 <p>{grave}</p>
                 <ImgEnd src={image} alt={alt} />
+              </Popup>
+              <Popup trigger={buttonPopup1} setTrigger={setButtonPopup1}>
+                {par} <br /> <br />
+                {par1} <br /> <br />
+                {par2}
               </Popup>
             </Column1>
             <Column2>
