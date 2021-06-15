@@ -21,7 +21,7 @@ export const homeObjOne = {
   cemetery: "Cmentarz Parafialny w Zakrzewie",
   grave: "Agnieszka Gierczak, brak grobu Jana",
   image: img7,
-  par: "Niewiele wiem o swoim dziadku Janie, ponieważ zmarł przed moimi narodzinami. Natomiast pamiętam dobrze babcię Agnieszkę. Pownego razu babcia spojrzała w górę na wiśnię lub czereśnię i wówczas mała gałązka oderwała się z drzewa i trafiła babcię w oko. Od tamtej pory miała problem z widzeniem przez uszkodzone oko. Kiedyś babcia Agnieszka udwiedziła nas w mieszkaniu na ul. Czarnej. Była bardzo zaciekawiona telewizorem i nie mogła nadziwidź się, że poruszają się w nim osoby. Nie wiem, czy to był żart z jej strony, ale w pewnym momencie zapytała: 'czy w środku są małe ludziki?'.",
+  par: "Niewiele wiem o swoim dziadku Janie, ponieważ zmarł przed moimi narodzinami. Natomiast pamiętam dobrze babcię Agnieszkę. Pownego razu babcia spojrzała w górę na wiśnię lub czereśnię i wówczas mała gałązka oderwała się z drzewa i trafiła babcię w oko. Od tamtej pory miała problem z widzeniem przez uszkodzone oko. Kiedyś babcia Agnieszka udwiedziła nas w mieszkaniu na ul. Czarnej. Była bardzo zaciekawiona telewizorem i nie mogła nadziwić się, że poruszają się w nim osoby. Nie wiem, czy to był żart z jej strony, ale w pewnym momencie zapytała: 'czy w środku są małe ludziki?'.",
   imgStart: false,
   img: img1,
   alt: "Mój dziadek",
