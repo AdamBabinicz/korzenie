@@ -5,11 +5,14 @@ export const PopupContainer = styled.div`
   top: 0;
   left: 0;
   width: 100%;
-  height: 100vh;
   background: rgba(0, 0, 0, 0.2);
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  /* height: 100vh;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
   color: #333;
   z-index: 999;
 `;
