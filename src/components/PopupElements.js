@@ -4,6 +4,8 @@ export const PopupContainer = styled.div`
   position: fixed;
   top: 0;
   left: 0;
+  right: 0;
+  bottom: 0;
   width: 100%;
   background: rgba(0, 0, 0, 0.2);
   min-height: 100vh;
@@ -19,8 +21,13 @@ export const PopupContainer = styled.div`
 
 export const PopupInner = styled.div`
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   padding: 32px;
   width: 100%;
+  max-height: 100%;
   max-width: 640px;
   background: #fff;
 `;
