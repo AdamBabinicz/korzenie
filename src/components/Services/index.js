@@ -25,7 +25,7 @@ const Services = () => {
         <ServicesCard>
           <ServicesIcon src={Icon2} alt={Icon2} />
           <ServicesH2>Jan Gierczak</ServicesH2>
-          <ServicesP>Zmarł przed moimi urodzinami.</ServicesP>
+          <ServicesP>Zmarł przed moimi narodzinami.</ServicesP>
         </ServicesCard>
         <ServicesCard>
           <ServicesIcon src={Icon3} alt={Icon3} />

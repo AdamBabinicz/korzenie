@@ -97,6 +97,8 @@ export const FamilyH2 = styled.div`
   text-align: center;
   /* white-space: nowrap; */
   color: #333;
+  display: flex;
+  flex-direction: column;
 
   @media screen and (max-width: 640px) {
     padding: 10px;
