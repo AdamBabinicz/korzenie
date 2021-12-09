@@ -41,7 +41,7 @@ const SignIn = () => {
           <CgArrowBottomLeft />
         </ArrowIcon>
         <ContainerWrap>
-          <FamilyH2>Karol&nbsp;Gierczak ✝1903</FamilyH2>
+          <FamilyH2>u. 1825 Karol&nbsp;Gierczak (Gerczak) ✝1903</FamilyH2>
           <FamilyH2>Tekla&nbsp;Kozyra ✝1909</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 23.11.1857</ContainerP>
