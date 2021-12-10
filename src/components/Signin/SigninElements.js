@@ -22,6 +22,10 @@ export const Container = styled.div`
   align-items: center;
   flex-direction: column;
   padding: 30px 0;
+
+  p {
+    text-align: center;
+  }
 `;
 
 export const ContainerH1 = styled.h1`

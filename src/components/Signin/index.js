@@ -32,24 +32,35 @@ const SignIn = () => {
           <Icon to="/">korzenie</Icon>
         </FormWrap>
         <ContainerH1>Praprzodkowie</ContainerH1>
+        <p>
+          Jaszowice - prywatna wieś szlachecka w drugiej połowie XVI wieku w
+          powiecie radomskim województwa sandomierskiego.
+        </p>
+        <br />
         <ContainerWrap>
-          <FamilyH2>Ambroży&nbsp;Gierczak</FamilyH2>
-          <FamilyH2>Kunegunda&nbsp;Koniak</FamilyH2>
+          <FamilyH2>Ambroży&nbsp;Gierczak (Gerczak)</FamilyH2>
+          <FamilyH2>Kunegunda&nbsp;Kania (Koniak)</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 18xx</ContainerP>
         <ArrowIcon>
           <CgArrowBottomLeft />
         </ArrowIcon>
         <ContainerWrap>
-          <FamilyH2>u. 1825 Karol&nbsp;Gierczak (Gerczak) ✝1903</FamilyH2>
-          <FamilyH2>Tekla&nbsp;Kozyra ✝1909</FamilyH2>
+          <FamilyH2>u. 1828 Karol&nbsp;Gierczak (Gerczak) ✝1903</FamilyH2>
+          <FamilyH2>u. 19.10.1831 Tekla&nbsp;Kozyra (Kozera) ✝1909</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 23.11.1857</ContainerP>
         <ArrowIcon>
           <CgArrowBottomLeft />
         </ArrowIcon>
+        <p>
+          Gulinek k. Zakrzewa - prywatna wieś szlachecka Zakrzów, położona była
+          w drugiej połowie XVI wieku w powiecie radomskim województwa
+          sandomierskiego.
+        </p>
+        <br />
         <ContainerWrap>
-          <FamilyH2>Paweł&nbsp;Gierczak ✝29.07.1935</FamilyH2>
+          <FamilyH2>u. 11.01.1867 Paweł&nbsp;Gierczak ✝29.07.1935</FamilyH2>
           <FamilyH2>Katarzyna&nbsp;Czerwińska</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 1887</ContainerP>
@@ -64,7 +75,6 @@ const SignIn = () => {
         <ArrowIcon>
           <CgArrowBottomLeft />
         </ArrowIcon>
-
         <ContainerWrap>
           <FamilyH2>u. 23.02.1930 Józef&nbsp;Gierczak ✝08.08.1996</FamilyH2>
           <FamilyH2>u. 08.12.1931 Marianna&nbsp;Ofiara ✝26.01.1987</FamilyH2>
