@@ -5,22 +5,25 @@ export const Container = styled.div`
   width: 100%;
   min-height: 100vh;
   margin: 0 auto;
-  padding: 0 10rem;
+  padding: 0 7rem;
   display: grid;
   place-items: center;
+  background: #ccc;
 
   @media only screen and (max-width: 678px) {
-    padding: 0;
+    padding: 0 1rem;
   }
 `;
 
 export const Wrapper = styled.div`
   width: 100%;
   height: auto;
-  padding: 0 5rem;
+  padding: 2rem 5rem;
+  background: #fff;
+  border-radius: 20px;
 
   @media only screen and (max-width: 678px) {
-    padding: 0 2rem;
+    padding: 1rem 2rem;
   }
 
   h3 {
@@ -28,6 +31,10 @@ export const Wrapper = styled.div`
     font-size: 2rem;
     margin-bottom: 3rem;
     font-family: "Verdana", sans-serif;
+
+    @media only screen and (max-width: 678px) {
+      font-size: 1.5rem;
+    }
 
     span {
       color: gray;
@@ -41,6 +48,10 @@ export const Wrapper = styled.div`
     font-family: "Tahoma", sans-serif;
     line-height: 1.4;
     margin-bottom: 1rem;
+
+    @media only screen and (max-width: 678px) {
+      font-size: 1.1rem;
+    }
   }
 `;
 
