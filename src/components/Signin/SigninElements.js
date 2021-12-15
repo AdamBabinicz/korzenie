@@ -88,7 +88,7 @@ export const ContainerWrap = styled.div`
     max-width: 20rem;
   }
 `;
-export const FamilyH2 = styled.div`
+export const FamilyH2 = styled(Link)`
   height: 100%;
   width: 100%;
   max-width: 300px;
@@ -103,6 +103,12 @@ export const FamilyH2 = styled.div`
   color: #333;
   display: flex;
   flex-direction: column;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    opacity: 0.7;
+  }
 
   @media screen and (max-width: 640px) {
     padding: 10px;

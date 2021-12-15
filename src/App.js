@@ -4,6 +4,11 @@ import Home from "./pages";
 import SigninPage from "./pages/signin";
 import SigninPageO from "./pages/signino";
 import Nodal from "./nodal/Nodal";
+import ambrozy from "./components/Signin/ambrozy";
+import karol from "./components/Signin/karol";
+import Signin from "./components/Signin";
+import pawel from "./components/Signin/pawel";
+import jan from "./components/Signin/jan";
 
 function App() {
   return (
@@ -13,6 +18,11 @@ function App() {
         <Route path="/prag" component={SigninPage} />
         <Route path="/prao" component={SigninPageO} />
         <Route path="/nodal" component={Nodal} exact />
+        <Route path="/ambrozy" component={ambrozy} />
+        <Route path="/karol" component={karol} />
+        <Route path="/signin" component={Signin} />
+        <Route path="/pawel" component={pawel} />
+        <Route path="/jan" component={jan} />
       </Switch>
     </Router>
   );

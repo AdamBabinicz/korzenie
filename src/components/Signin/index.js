@@ -38,15 +38,17 @@ const SignIn = () => {
         </p>
         <br />
         <ContainerWrap>
-          <FamilyH2>Ambroży&nbsp;Gierczak (Gerczak)</FamilyH2>
+          <FamilyH2 to="/ambrozy">Ambroży&nbsp;Gierczak (Gerczak)</FamilyH2>
           <FamilyH2>Kunegunda&nbsp;Kania (Koniak)</FamilyH2>
         </ContainerWrap>
-        <ContainerP>ślub: 18xx</ContainerP>
+        <ContainerP>ślub: 1820 ?</ContainerP>
         <ArrowIcon>
           <CgArrowBottomLeft />
         </ArrowIcon>
         <ContainerWrap>
-          <FamilyH2>u. 1828 Karol&nbsp;Gierczak (Gerczak) ✝1903</FamilyH2>
+          <FamilyH2 to="/karol">
+            u. 1828 Karol&nbsp;Gierczak (Gerczak) ✝1903
+          </FamilyH2>
           <FamilyH2>u. 19.10.1831 Tekla&nbsp;Kozyra (Kozera) ✝1909</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 23.11.1857</ContainerP>
@@ -60,7 +62,9 @@ const SignIn = () => {
         </p>
         <br />
         <ContainerWrap>
-          <FamilyH2>u. 11.01.1867 Paweł&nbsp;Gierczak ✝29.07.1935</FamilyH2>
+          <FamilyH2 to="/pawel">
+            u. 11.01.1867 Paweł&nbsp;Gierczak (Gerczak) ✝29.07.1935
+          </FamilyH2>
           <FamilyH2>Katarzyna&nbsp;Czerwińska</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 1887</ContainerP>
@@ -68,7 +72,7 @@ const SignIn = () => {
           <CgArrowBottomLeft />
         </ArrowIcon>
         <ContainerWrap>
-          <FamilyH2>u. 18.06.1891 Jan&nbsp;Gierczak ✝1955</FamilyH2>
+          <FamilyH2 to="/jan">u. 18.06.1891 Jan&nbsp;Gierczak ✝1955</FamilyH2>
           <FamilyH2>u. 13.04.1894 Agnieszka&nbsp;Baćmaga ✝08.11.1969</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 14.11.1917</ContainerP>
