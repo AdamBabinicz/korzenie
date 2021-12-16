@@ -1,11 +1,17 @@
 import React from "react";
 import { Container, Wrapper, Icon } from "./przodekElements";
+import { BsArrowLeftSquareFill } from "react-icons/bs";
 
 const ambrozy = () => {
   return (
     <Container>
       <Wrapper>
-        <Icon to="/signin">korzenie</Icon>
+        <Icon to="/signin">
+          <span>
+            <BsArrowLeftSquareFill />
+          </span>
+          korzenie
+        </Icon>
         <h3>
           Karol Gerczak <span>vel Gierczak</span>
         </h3>

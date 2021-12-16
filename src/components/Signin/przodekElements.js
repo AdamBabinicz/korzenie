@@ -60,11 +60,17 @@ export const Icon = styled(Link)`
   /* margin-top: 32px; */
   text-decoration: none;
   font-weight: 100;
-  color: rgb(90, 89, 89);
+  /* color: rgb(90, 89, 89); */
   color: rgb(170, 169, 169);
   font-size: 32px;
   transition: all 0.3s ease-in-out;
   text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
+
+  span {
+    color: #ccc;
+    display: block;
+    align-self: center;
+  }
 
   &:hover {
     color: #fff;

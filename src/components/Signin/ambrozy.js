@@ -1,11 +1,17 @@
 import React from "react";
 import { Container, Wrapper, Icon } from "./przodekElements";
+import { BsArrowLeftSquareFill } from "react-icons/bs";
 
 const ambrozy = () => {
   return (
     <Container>
       <Wrapper>
-        <Icon to="/signin">korzenie</Icon>
+        <Icon to="/signin">
+          <span>
+            <BsArrowLeftSquareFill />
+          </span>
+          korzenie
+        </Icon>
         <h3>
           Ambroży Gerczak <span>vel Gierczak</span>
         </h3>
@@ -15,9 +21,12 @@ const ambrozy = () => {
           Magdaleny. Mieszkali we wsi Jaszowice k. Radomia.
         </p>
         <p>
-          Mieli 5 dzieci: Katarzynę ur. w 1821, Kacpra (1826-1903), Karola
-          (1828-1903), Ludwikę ur. w 1831, Franciszkę ur. w 1835. Kacper ożenił
-          się w Jaszowicach, zaś Karol w Gulinku.
+          Mieli 8 dzieci: Józefę, Jadwigę, Mariannę, Katarzynę ur. w 1821,
+          Kacpra (1826-1903), Karola (1828-1903), Ludwikę ur. w 1831, Franciszkę
+          ur. w 1835. Kacper ożenił się w Jaszowicach, zaś Karol w Gulinku.
+          Józefa w 1841 wyszła za mąż za Józefa Wierachę. Jadwiga poślubiła w
+          1842 Franciszka Kornafela. Marianna wstąpiła w związek małżeńki w 1852
+          z Antonim Stępniem.
         </p>
         <p>
           Pierwszą żoną Kacpra była Marianna Moskwa vel Moskwina. Ślub wzięli w
