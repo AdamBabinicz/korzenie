@@ -80,7 +80,9 @@ const SignIn = () => {
           <CgArrowBottomLeft />
         </ArrowIcon>
         <ContainerWrap>
-          <FamilyH2>u. 23.02.1930 Józef&nbsp;Gierczak ✝08.08.1996</FamilyH2>
+          <FamilyH2 to="/józef">
+            u. 23.02.1930 Józef&nbsp;Gierczak ✝08.08.1996
+          </FamilyH2>
           <FamilyH2>u. 08.12.1931 Marianna&nbsp;Ofiara ✝26.01.1987</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 19xx</ContainerP>

@@ -16,9 +16,10 @@ const ambrozy = () => {
           Paweł Gerczak <span>vel Gierczak</span>
         </h3>
         <p>
-          Paweł pojął za żonę w 1887 Katarzynę Czerwińską. Mieli Józefę, Adama
-          ur. w 1888, Józefa ur. w 1890, Jana ur. w 1890, Stanisława ur. w 1893,
-          Zofię ur. w 1900, Franciszka ur. w 1910 i Stanisławę ur. w 1911.
+          <b>Paweł</b> pojął za żonę w 1887 Katarzynę Czerwińską. Mieli Józefę,
+          Adama ur. w 1888, Józefa ur. w 1890, <b>Jana ur. w 1890</b>,
+          Stanisława ur. w 1893, Zofię ur. w 1900, Franciszka ur. w 1910 i
+          Stanisławę ur. w 1911.
         </p>
         <p>Józefa wyszła za mąż w 1928 za wdowca Władysława Walczaka.</p>
         <p>Paweł był dziadkiem mojego ojca Józefa ur. w 1930.</p>

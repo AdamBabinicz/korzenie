@@ -9,6 +9,7 @@ import karol from "./components/Signin/karol";
 import Signin from "./components/Signin";
 import pawel from "./components/Signin/pawel";
 import jan from "./components/Signin/jan";
+import józef from "./components/Signin/józef";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
         <Route path="/signin" component={Signin} />
         <Route path="/pawel" component={pawel} />
         <Route path="/jan" component={jan} />
+        <Route path="/józef" component={józef} />
       </Switch>
     </Router>
   );

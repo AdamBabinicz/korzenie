@@ -43,7 +43,8 @@ export const Wrapper = styled.div`
     }
   }
 
-  p {
+  p,
+  b {
     font-size: 1.3rem;
     font-family: "Tahoma", sans-serif;
     line-height: 1.4;

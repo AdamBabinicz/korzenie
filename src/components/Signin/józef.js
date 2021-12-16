@@ -12,15 +12,11 @@ const ambrozy = () => {
           </span>
           korzenie
         </Icon>
-        <h3>Jan Gierczak</h3>
+        <h3>Józef Gierczak</h3>
         <p>
-          <b>Jan</b> był ojcem mojego ojca <b>Józefa</b>. Z Agnieszką Baćmagą z
-          d. Szewczyk ożenił się w 1917.
-        </p>
-        <p></p>
-        <p>
-          Małżonkowie mieli Jana, Mariannę, Janinę, Stefana (1921-2017),
-          Władysława, Tadeusza (192x-1974), <b>Józefa (1930-1996)</b> i Zofię.
+          <b>Józef</b> był moim ojcem. Z Marianną Ofiarą z d. Sobień ożenił się
+          w 19xx. Małżonkowie mieli Witolda, <b>Adama ur. w 1956</b> i Marię ur.
+          w 1958.
         </p>
       </Wrapper>
     </Container>
