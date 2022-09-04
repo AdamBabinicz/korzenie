@@ -2,6 +2,7 @@ import React from "react";
 import Icon1 from "../../images/2.jpg";
 import Icon2 from "../../images/4.jpg";
 import Icon3 from "../../images/6.jpg";
+import Icon4 from "../../images/11.jpg";
 import {
   ServicesContainer,
   ServicesH1,
@@ -31,6 +32,11 @@ const Services = () => {
           <ServicesIcon src={Icon3} alt={Icon3} />
           <ServicesH2>Emilija Sobień</ServicesH2>
           <ServicesP>Oryginalny podpis z tyłu zdjęcia.</ServicesP>
+        </ServicesCard>
+        <ServicesCard>
+          <ServicesIcon src={Icon4} alt={Icon3} />
+          <ServicesH2>Moja mama za swoją chrześnicą</ServicesH2>
+          <ServicesP>Gulinek.</ServicesP>
         </ServicesCard>
       </ServicesWrapper>
     </ServicesContainer>
