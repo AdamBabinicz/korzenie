@@ -85,7 +85,7 @@ const SignIn = () => {
           </FamilyH2>
           <FamilyH2>u. 08.12.1931 Marianna&nbsp;Ofiara ✝26.01.1987</FamilyH2>
         </ContainerWrap>
-        <ContainerP>ślub: 19xx</ContainerP>
+        <ContainerP>ślub: 26.11.1952</ContainerP>
         <ArrowIcon>
           <CgArrowBottomLeft />
         </ArrowIcon>
