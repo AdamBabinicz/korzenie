@@ -15,7 +15,7 @@ const ambrozy = () => {
         <h3>Józef Gierczak</h3>
         <p>
           <b>Józef (1930-1996)</b> był moim ojcem. Z Marianną Ofiarą (1931-1987)
-          z d. Sobień ożenił się w 19xx. Małżonkowie mieli Witolda,
+          z d. Sobień ożenił się w 1952. Małżonkowie mieli Witolda,
           <b> Adama ur. w 1956</b> i Marię ur. w 1958.
         </p>
       </Wrapper>
