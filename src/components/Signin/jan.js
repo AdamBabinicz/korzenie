@@ -20,7 +20,8 @@ const ambrozy = () => {
         <p></p>
         <p>
           Małżonkowie mieli Jana, Mariannę, Janinę, Stefana (1921-2017),
-          Władysława, Tadeusza (192x-1974), <b>Józefa (1930-1996)</b> i Zofię.
+          Władysława, Tadeusza (192x-1974), <b>Józefa (1930-1996)</b> i Zofię
+          (19xx-2022).
         </p>
       </Wrapper>
     </Container>
