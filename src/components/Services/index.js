@@ -99,7 +99,9 @@ const Services = () => {
 
         <ServicesCard onClick={() => toggleTab(4)}>
           <ServicesIcon src={Icon4} alt={Icon3} />
-          <ServicesH2> za swoją chrześnicą Zosią Bilską</ServicesH2>
+          <ServicesH2>
+            Marianna Gierczak ze swoją chrześnicą Zosią Bilską
+          </ServicesH2>
           <ServicesP>Gulinek 1960.</ServicesP>
         </ServicesCard>
 
