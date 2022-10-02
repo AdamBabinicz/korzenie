@@ -99,8 +99,8 @@ const Services = () => {
 
         <ServicesCard onClick={() => toggleTab(4)}>
           <ServicesIcon src={Icon4} alt={Icon3} />
-          <ServicesH2>Moja mama za swoją chrześnicą Zosią Bilską</ServicesH2>
-          <ServicesP>Gulinek.</ServicesP>
+          <ServicesH2> za swoją chrześnicą Zosią Bilską</ServicesH2>
+          <ServicesP>Gulinek 1960.</ServicesP>
         </ServicesCard>
 
         <div
