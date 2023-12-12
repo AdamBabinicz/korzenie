@@ -38,7 +38,17 @@ const SignIn = () => {
         </p>
         <br />
         <ContainerWrap>
-          <FamilyH2 to="/ambrozy">Ambroży&nbsp;Gierczak (Gerczak)</FamilyH2>
+          <FamilyH2 to="/">Tomasz&nbsp;Gierczak (Gerczak)</FamilyH2>
+          <FamilyH2>Zofia&nbsp;Giel</FamilyH2>
+        </ContainerWrap>
+        <ContainerP>ślub: ?</ContainerP>
+        <ArrowIcon>
+          <CgArrowBottomLeft />
+        </ArrowIcon>
+        <ContainerWrap>
+          <FamilyH2 to="/ambrozy">
+            Ambroży&nbsp;Gierczak (Gerczak) ✝1836
+          </FamilyH2>
           <FamilyH2>Kunegunda&nbsp;Kania (Koniak)</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 1820 ?</ContainerP>
