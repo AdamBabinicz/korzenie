@@ -28,7 +28,8 @@ const ambrozy = () => {
           i Ewy Drużdżel.
         </p>
         <p>
-          Z tego związku mieli Kazimierę, Genowefę, Andrzeja, Józefa,
+          Z tego związku mieli Józefa (✝1927), Andrzeja (✝1928), Genowefę
+          (✝1930), Kazimierę (✝1935),
           <b> Mariannę - moją mamę</b> i Romana. Pierwsza czwórka dzieci zmarła
           bardzo wcześnie.
         </p>
