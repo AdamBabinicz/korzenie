@@ -23,7 +23,7 @@ const ambrozy = () => {
           Mieli 4 dzieci: Ignacego, Antoniego, <b>Józefa (mojego dziadka)</b> i
           Katarzynę (Piwowarczyk ✝1944).
         </p>
-        <p>Ignacy w 1908 r. ożenił się z wdową Katarzyną Sikorską (Jurczak)</p>
+        <p>Ignacy w 1908 r. ożenił się z wdową Katarzyną Sikorską (Jurczak).</p>
         <p>
           Antoni ożenił się w 1910 r. z wdową Rozalią Rojek (Drużdżel). Józef
           pojął za żonę Rozalię Mitak w 1918 r.
