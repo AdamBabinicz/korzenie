@@ -16,16 +16,16 @@ const ambrozy = () => {
           Józef Ofiara <span></span>
         </h3>
         <p>
-          Mój dziadek urodził się w 1896 r. w Ludwikowie k. Jedlińska. W 1918 r.
+          Mój dziadek urodził się w 1896 w Ludwikowie k. Jedlińska. W 1918
           poślubił Rozalię z d. Mitak c. Michała i Ewy Drużdżel.
         </p>
         <p>
-          Z tego małżeństwa mieli trzech synów: Stanisława ur. w 1919 r., Piotra
-          i Jana.
+          Z tego małżeństwa mieli trzech synów: Stanisława ur. w 1919, Piotra i
+          Jana.
         </p>
         <p>
-          Po śmierci Rozalii (33) ożenił się w 1926 r. z Heleną Sobień c. Karola
-          i Ewy Drużdżel.
+          Po śmierci Rozalii (33) ożenił się w 1926 z Heleną Sobień c. Karola i
+          Ewy Drużdżel.
         </p>
         <p>
           Z tego związku mieli Józefa (✝1927), Andrzeja (✝1928), Genowefę

@@ -17,7 +17,7 @@ const ambrozy = () => {
         </h3>
         <p>
           <b>Karol</b> był trzecim dzieckiem Ambrożego i Kunegundy. Żoną Karola
-          została w dn. 23.11.1857 r. Tekla Kozyra vel Kozera z d. Adamczyk
+          została w dn. 23.11.1857 Tekla Kozyra vel Kozera z d. Adamczyk
           (1831-1909).
         </p>
         <p>
