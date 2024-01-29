@@ -49,7 +49,7 @@ const SignIn = () => {
           <FamilyH2 to="/ambrozy">
             Ambroży&nbsp;Gierczak (Gerczak) ✝1836
           </FamilyH2>
-          <FamilyH2>Kunegunda&nbsp;Kania (Koniak)</FamilyH2>
+          <FamilyH2>Kunegunda&nbsp;Kania (Koniak, Karcz)</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 1820 ?</ContainerP>
         <ArrowIcon>
