@@ -38,7 +38,7 @@ const SignIn = () => {
         </p>
         <br />
         <ContainerWrap>
-          <FamilyH2 to="/">Tomasz&nbsp;Gierczak (Gerczak)</FamilyH2>
+          <FamilyH2 to="/tomasz">Tomasz&nbsp;Gierczak (Gerczak)</FamilyH2>
           <FamilyH2>Zofia&nbsp;Giel (Gielowska)</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: ?</ContainerP>

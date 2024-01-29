@@ -12,6 +12,7 @@ import Signin from "./components/Signin";
 import pawel from "./components/Signin/pawel";
 import jan from "./components/Signin/jan";
 import józef from "./components/Signin/józef";
+import tomasz from "./components/Signin/tomasz";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/prag" component={SigninPage} />
         <Route path="/prao" component={SigninPageO} />
         <Route path="/nodal" component={Nodal} exact />
+        <Route path="/tomasz" component={tomasz} />
         <Route path="/ambrozy" component={ambrozy} />
         <Route path="/andrzej" component={andrzej} />
         <Route path="/jozef" component={jozef} />
