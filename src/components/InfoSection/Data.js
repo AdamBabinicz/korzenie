@@ -38,7 +38,7 @@ export const homeObjTwo = {
   topLine: "Moja babcia ze strony mamy",
   headline: "Helena Ofiara z d. Sobień (1905 - 1978)",
   description:
-    "Urodziła się w 1905 r. z rodziców Karola i Ewy Drużdżel. Była drugą żoną Józefa (ur. w 1896 r. w Ludwikowie) - wdowca po Rozalii z Mitaków (33) ✝1925 r; mieli sześcioro dzieci: Kazimierę, Genowefę, Andrzeja, Józefa, Mariannę - moją mamę i Romana (na zdjęciu). Pierwsza czwórka dzieci zmarła bardzo wcześnie. Razem z pozostałymi wychowywały się dzieci dziadka z pierwszego małżeństwa: Piotr, Stanisław i Jan.",
+    "Urodziła się w 1905 r. z rodziców Karola i Ewy Drużdżel. Była drugą żoną Józefa (ur. w 1896 r. w Ludwikowie) - wdowca po Rozalii z Mitaków (33) ✝1925 r; mieli sześcioro dzieci: Kazimierę (✝1935 r.), Genowefę (✝1930 r.), Andrzeja (✝1928 r.), Józefa (✝1927 r.), Mariannę - moją mamę i Romana (na zdjęciu). Pierwsza czwórka dzieci zmarła bardzo wcześnie. Razem z pozostałymi wychowywały się dzieci dziadka z pierwszego małżeństwa: Piotr, Stanisław i Jan.",
   buttonLabel: "Czytaj więcej",
   buttonLabel1: "✝⚱",
   desc: "🕯 🕯 🕯",
