@@ -24,9 +24,9 @@ const ambrozy = () => {
           (✝1868) i Mariannę (✝1916).
         </p>
         <p>
-          Andrzej ożenił się w 1837 r. z Teresą Pączek (Górniak, Gurniak,
-          Gorniak, Pączkowa), której rodzicami byli Jakub i Magdalena. Ślub
-          odbył się w parafii Cerekiew.
+          Andrzej ożenił się w 1837 z Teresą Pączek (Górniak, Gurniak, Gorniak,
+          Pączkowa), której rodzicami byli Jakub i Magdalena. Ślub odbył się w
+          parafii Cerekiew.
         </p>
       </Wrapper>
     </Container>
