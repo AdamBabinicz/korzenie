@@ -19,7 +19,7 @@ const ambrozy = () => {
           <b>Paweł</b> pojął za żonę w 1887 Katarzynę Czerwińską. Mieli Józefę,
           Adama ur. w 1888 (✝1889 r.), Józefa ur. w 1890 (✝1890 r.),
           <b> Jana ur. w 1890</b>, Stanisława ur. w 1893, Zofię ur. w 1900,
-          Rozalię (✝1906 r.), Franciszka ur. w 1910 i Stanisławę ur. w 1911
+          Rozalię (✝1906 r.), Franciszka ur. w 1910 i Stanisławę ur. w 1911 r.
           (✝1911 r.).
         </p>
         <p>Józefa wyszła za mąż w 1928 za wdowca Władysława Walczaka.</p>
