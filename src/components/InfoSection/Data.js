@@ -10,9 +10,9 @@ import img9 from "../../images/3.png";
 
 export const homeObjOne = {
   id: "jan",
-  lightBg: false,
-  lightText: true,
-  lightTextDesc: true,
+  lightBg: true,
+  lightText: false,
+  lightTextDesc: false,
   topLine: "Mój dziadek ze strony taty",
   headline: "Jan Gierczak",
   description:
@@ -29,7 +29,7 @@ export const homeObjOne = {
   alt: "Mój dziadek",
   dark: true,
   primary: true,
-  darkText: false,
+  darkText: true,
 };
 
 export const homeObjTwo = {
