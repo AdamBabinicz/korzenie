@@ -101,8 +101,10 @@ export const ImgWrap = styled.div`
 
 export const ImgEnd = styled.img`
   width: 100%;
-  max-width: 400px;
+  max-width: 330px;
+  height: 500px;
   margin-top: 2rem;
+  object-fit: cover;
 `;
 
 export const Img = styled.img`
