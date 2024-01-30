@@ -105,6 +105,10 @@ export const ImgEnd = styled.img`
   height: 500px;
   margin-top: 2rem;
   object-fit: cover;
+
+  @media screen and (max-width: 640px) {
+    height: 400px;
+  }
 `;
 
 export const Img = styled.img`
