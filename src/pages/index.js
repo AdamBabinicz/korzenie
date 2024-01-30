@@ -25,12 +25,12 @@ const Home = () => {
       <Navbar toggle={toggle} />
       <HeroSection />
       <InfoSection {...homeObjOne} />
+      <InfoSection {...homeObjFive} />
       <InfoSection {...homeObjTwo} />
       <Services />
       <InfoSection {...homeObjThree} />
       <InfoSection {...homeObjFour} />
-      {/* <InfoSection {...homeObjFive} />
-      <InfoSection {...homeObjSix} /> */}
+      {/* <InfoSection {...homeObjSix} /> */}
       <Footer />
     </>
   );
