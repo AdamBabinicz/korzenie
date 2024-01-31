@@ -27,10 +27,13 @@ export const PopupInner = styled.div`
   align-items: center;
   padding: 32px;
   width: 100%;
-  /* max-height: 100%; */
-  max-height: fit-content;
+  max-height: 100%;
   max-width: 640px;
   background: #fff;
+
+  @media screen and (max-width: 640px) {
+    overflow-y: scroll;
+  }
 `;
 
 export const Button = styled.button`
