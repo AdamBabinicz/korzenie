@@ -27,7 +27,8 @@ export const PopupInner = styled.div`
   align-items: center;
   padding: 32px;
   width: 100%;
-  max-height: 100%;
+  /* max-height: 100%; */
+  max-height: fit-content;
   max-width: 640px;
   background: #fff;
 `;
