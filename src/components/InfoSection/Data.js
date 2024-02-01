@@ -115,7 +115,7 @@ export const homeObjFive = {
   topLine: "Moja babcia ze strony ojca",
   headline: "Agnieszka Gierczak",
   par: "Z opowiadania wiem, że pewnego razu babcia spojrzała w górę na wiśnię lub czereśnię i wówczas mała gałązka oderwała się z drzewa i trafiła babcię w oko. Od tamtej pory miała problem z widzeniem przez uszkodzone oko. Kiedyś babcia Agnieszka udwiedziła nas w mieszkaniu na ul. Czarnej. Była bardzo zaciekawiona telewizorem i nie mogła nadziwić się, że poruszają się w nim osoby. W pewnym momencie żartując zapytała: 'czy w środku są małe ludziki?'.",
-  description: "Urodziła się w 13.04.1894 r.",
+  description: "Urodziła się 13.04.1894 r.",
   buttonLabel: "Zobacz więcej",
   desc: "🕯",
   cemetery: "Cmentarz Parafialny w Zakrzewie",
