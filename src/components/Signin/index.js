@@ -20,6 +20,8 @@ import {
   ContainerP,
 } from "./SigninElements";
 import img1 from "../../images/1.png";
+import img from "../../images/4.png";
+import img2 from "../../images/6.png";
 
 const SignIn = () => {
   return (
@@ -37,6 +39,7 @@ const SignIn = () => {
           powiecie radomskim województwa sandomierskiego.
         </p>
         <br />
+        <img src={img} alt="..." className="wies" />
         <ContainerWrap>
           <FamilyH2 to="/tomasz">Tomasz&nbsp;Gierczak (Gerczak)</FamilyH2>
           <FamilyH2>Zofia&nbsp;Giel (Gielowska)</FamilyH2>
@@ -71,6 +74,7 @@ const SignIn = () => {
           sandomierskiego.
         </p>
         <br />
+        <img src={img2} alt="..." className="wies" />
         <ContainerWrap>
           <FamilyH2 to="/pawel">
             u. 11.01.1867 Paweł&nbsp;Gierczak (Gerczak) ✝29.07.1935
