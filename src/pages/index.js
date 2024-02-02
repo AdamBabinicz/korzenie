@@ -13,7 +13,6 @@ import Sidebar from "../components/Sidebar";
 import Services from "../components/Services";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import ScrollToTopButton from "../ScrollToTopButton";
 
 const Home = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -33,7 +32,6 @@ const Home = () => {
       <InfoSection {...homeObjFour} />
       {/* <InfoSection {...homeObjSix} /> */}
       <Footer />
-      <ScrollToTopButton />
     </>
   );
 };

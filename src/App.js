@@ -13,6 +13,7 @@ import pawel from "./components/Signin/pawel";
 import jan from "./components/Signin/jan";
 import józef from "./components/Signin/józef";
 import tomasz from "./components/Signin/tomasz";
+import ScrollToTopButton from "./ScrollToTopButton";
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
         <Route path="/jan" component={jan} />
         <Route path="/józef" component={józef} />
       </Switch>
+      <ScrollToTopButton />
     </Router>
   );
 }

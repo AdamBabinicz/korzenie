@@ -32,9 +32,9 @@ const ScrollToTopButton = () => {
   return (
     // Wyrenderuj przycisk tylko jeśli isVisible jest true
     isVisible && (
-      <button className="scroll-to-top" onClick={scrollToTop}>
+      <div className="scroll-to-top" onClick={scrollToTop}>
         <FaArrowAltCircleUp className="arrow" />
-      </button>
+      </div>
     )
   );
 };
