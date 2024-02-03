@@ -23,7 +23,7 @@ const ambrozy = () => {
           (✝1911).
         </p>
         <p>Józefa wyszła za mąż w 1928 za wdowca Władysława Walczaka.</p>
-        <p>Paweł był dziadkiem mojego ojca Józefa ur. w 1930</p>
+        <p>Paweł był dziadkiem mojego ojca Józefa ur. w 1930.</p>
       </Wrapper>
     </Container>
   );
