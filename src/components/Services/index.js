@@ -26,7 +26,7 @@ const serviceData = [
     id: 2,
     icon: Icon2,
     title: "Jan Gierczak",
-    description: "Zmarł przed moimi narodzinami.",
+    description: "Zmarł gdy miałem 2 lata.",
   },
   {
     id: 3,

@@ -23,7 +23,7 @@ export const homeObjOne = {
   cemetery: "Cmentarz Parafialny w Zakrzewie",
   grave: "Jan Gierczak",
   image: img7,
-  par: "Niewiele wiem o swoim dziadku Janie, ponieważ zmarł przed moimi narodzinami.",
+  par: "Niewiele wiem o swoim dziadku Janie, ponieważ zmarł gdy miałem 2 lata.",
   imgStart: false,
   img: img1,
   alt: "Mój dziadek",

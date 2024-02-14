@@ -86,7 +86,9 @@ const SignIn = () => {
           <CgArrowBottomLeft />
         </ArrowIcon>
         <ContainerWrap>
-          <FamilyH2 to="/jan">u. 18.06.1891 Jan&nbsp;Gierczak ✝1955</FamilyH2>
+          <FamilyH2 to="/jan">
+            u. 18.06.1891 Jan&nbsp;Gierczak ✝07.11.1958
+          </FamilyH2>
           <FamilyH2>u. 13.04.1894 Agnieszka&nbsp;Baćmaga ✝08.11.1969</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 14.11.1917</ContainerP>
