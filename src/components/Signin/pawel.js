@@ -16,9 +16,9 @@ const ambrozy = () => {
           Paweł Gerczak <span>vel Gierczak</span>
         </h3>
         <p>
-          <b>Paweł</b> pojął za żonę w 1887 Katarzynę Czerwińską. Mieli Józefę,
-          Adama ur. w 1888 (✝06.03.1889 - 3 miesiące), Józefa ur. w 1890 (✝1890
-          - 6 tyg.),
+          <b>Paweł</b> pojął za żonę w 1887 Katarzynę Czerwińską c. Marianny
+          Kieragi. Mieli Józefę, Adama ur. w 1888 (✝06.03.1889 - 3 miesiące),
+          Józefa ur. w 1890 (✝1890 - 6 tyg.),
           <b> Jana ur. w 1890</b>, Stanisława ur. w 1893, Zofię ur. w 1900,
           Rozalię (✝1906), Franciszka ur. w 1910 i Stanisławę ur. w 1911 (✝1911
           - 3 tyg.).
