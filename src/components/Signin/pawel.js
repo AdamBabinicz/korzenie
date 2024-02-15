@@ -29,7 +29,7 @@ const ambrozy = () => {
         </p>
         <p>
           Franciszek ożenił się w 1932 z Feliksą Szczygłowską c. Karoliny
-          Kozłowskiej. Slub odbył się w parafii Kowala-Stępocina .
+          Kozłowskiej. Ślub odbył się w parafii Kowala-Stępocina .
         </p>
         <p>Józefa wyszła za mąż w 1928 za wdowca Władysława Walczaka.</p>
         <p>Paweł był dziadkiem mojego ojca Józefa ur. w 1930.</p>
