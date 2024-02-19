@@ -21,7 +21,7 @@ const ambrozy = () => {
         </p>
         <p>
           Mieli 4 dzieci: Ignacego, Antoniego, <b>Józefa (mojego dziadka)</b> i
-          Katarzynę (Piwowarczyk ✝1944).
+          Katarzynę (Piwowarczyk ✝09.11.1944).
         </p>
         <p>
           Ignacy w 1908 ożenił się z wdową po Józefie, Katarzyną Sikorską
