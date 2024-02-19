@@ -29,8 +29,10 @@ const ambrozy = () => {
         </p>
         <p>
           Antoni ożenił się w 1910 z wdową po Szczepanie, Rozalią Rojek
-          (Drużdżel) c. Kazimierza i Małgorzaty Podkowiak. Józef pojął za żonę
-          Rozalię Mitak c. Michała i Ewy Drużdżel w 1918.
+          (Drużdżel) c. Kazimierza i Małgorzaty Podkowiak.
+          <p>
+            Józef pojął za żonę Rozalię Mitak c. Michała i Ewy Drużdżel w 1918.
+          </p>
         </p>
       </Wrapper>
     </Container>
