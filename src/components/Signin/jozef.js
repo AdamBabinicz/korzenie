@@ -20,8 +20,8 @@ const ambrozy = () => {
           poślubił Rozalię z d. Mitak c. Michała i Ewy Drużdżel.
         </p>
         <p>
-          Z tego małżeństwa mieli trzech synów: Stanisława ur. w 1919, Piotra i
-          Jana.
+          Z tego małżeństwa mieli trzech synów: Stanisława ur. w 1919, Piotra
+          (ur. 1921 zm. 03.06.2004) i Jana.
         </p>
         <p>
           Po śmierci Rozalii (33) ożenił się w 1926 z Heleną Sobień c. Karola i
