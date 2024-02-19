@@ -28,8 +28,9 @@ const ambrozy = () => {
           (Jurczak) c. Andrzeja i Marianny Hudzik. Ślub odbył się w Błotnicy.
         </p>
         <p>
-          Antoni ożenił się w 1910 z wdową Rozalią Rojek (Drużdżel). Józef pojął
-          za żonę Rozalię Mitak w 1918.
+          Antoni ożenił się w 1910 z wdową po Szczepanie, Rozalią Rojek
+          (Drużdżel) c. Kazimierza i Małgorzaty Podkowiak. Józef pojął za żonę
+          Rozalię Mitak c. Michała i Ewy Drużdżel w 1918.
         </p>
       </Wrapper>
     </Container>
