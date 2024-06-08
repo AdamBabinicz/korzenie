@@ -70,7 +70,7 @@ export const Heading = styled.h1`
   font-size: 4rem;
   line-height: 1.1;
   font-weight: 600;
-  color: ${({ lightText }) => (lightText ? "#ccc" : "rgb(245, 243, 243);")};
+  color: ${({ lightText }) => (lightText ? "#ccc" : "rgb(245, 243, 243)")};
   text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
 
   @media screen and (max-width: 640px) {
@@ -84,7 +84,7 @@ export const Subtitle = styled.p`
   font-size: 1.7rem;
   line-height: 1.3;
   color: ${({ darkText }) =>
-    darkText ? " rgb(82, 80, 80)" : "rgb(245, 243, 243);"};
+    darkText ? " rgb(82, 80, 80)" : "rgb(245, 243, 243)"};
   text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
 `;
 

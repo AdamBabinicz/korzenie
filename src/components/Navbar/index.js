@@ -18,7 +18,7 @@ import { GiTreeRoots } from "react-icons/gi";
 
 const Navbar = ({ toggle }) => {
   const [scrollNav, setScrollNav] = useState(false);
-  const changeNav = (nav) => {
+  const changeNav = () => {
     if (window.scrollY >= 80) {
       setScrollNav(true);
     } else {
@@ -28,14 +28,16 @@ const Navbar = ({ toggle }) => {
 
   useEffect(() => {
     window.addEventListener("scroll", changeNav);
+    return () => window.removeEventListener("scroll", changeNav);
   }, []);
 
   const toggleHome = () => {
     scroll.scrollToTop();
   };
+
   return (
     <>
-      <IconContext.Provider value={{ color: "rgb(245, 243, 243);" }}>
+      <IconContext.Provider value={{ color: "rgb(245, 243, 243)" }}>
         <Nav scrollNav={scrollNav}>
           <NavbarContainer>
             <GiTreeRootsIcon>
@@ -54,7 +56,6 @@ const Navbar = ({ toggle }) => {
                   smooth={true}
                   duration={500}
                   spy={true}
-                  exact="true"
                   offset={-80}
                 >
                   Jan
@@ -66,7 +67,6 @@ const Navbar = ({ toggle }) => {
                   smooth={true}
                   duration={500}
                   spy={true}
-                  exact="true"
                   offset={-80}
                 >
                   Helena
@@ -78,7 +78,6 @@ const Navbar = ({ toggle }) => {
                   smooth={true}
                   duration={500}
                   spy={true}
-                  exact="true"
                   offset={-80}
                 >
                   Marianna
@@ -90,7 +89,6 @@ const Navbar = ({ toggle }) => {
                   smooth={true}
                   duration={500}
                   spy={true}
-                  exact="true"
                   offset={-80}
                 >
                   Józef
@@ -102,7 +100,6 @@ const Navbar = ({ toggle }) => {
                   smooth={true}
                   duration={500}
                   spy={true}
-                  exact="true"
                   offset={-80}
                 >
                   Archiwum

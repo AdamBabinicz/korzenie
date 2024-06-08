@@ -58,11 +58,12 @@ const InfoSection = ({
                 <Subtitle darkText={darkText}>{description}</Subtitle>
                 <BtnWrap>
                   <Button
+                    to="#"
                     onClick={() => setButtonPopup1(true)}
                     smooth={true}
                     duration={500}
                     spy={true}
-                    exact={true}
+                    // exact={true}
                     offset={-80}
                     primary={primary ? 1 : 0}
                     dark={dark ? 1 : 0}
@@ -71,10 +72,11 @@ const InfoSection = ({
                     {buttonLabel}
                   </Button>
                   <Button
+                    to="#"
                     smooth={true}
                     duration={500}
                     spy={true}
-                    exact={true}
+                    // exact={true}
                     offset={-80}
                     primary={primary ? 1 : 0}
                     dark={dark ? 1 : 0}
