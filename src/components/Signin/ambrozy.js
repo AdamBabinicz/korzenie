@@ -21,13 +21,13 @@ const ambrozy = () => {
           Magdaleny. Mieszkali we wsi Jaszowice k. Radomia.
         </p>
         <p>
-          Mieli 8 dzieci: Józefę, Jadwigę, Mariannę ur. w 1833, Katarzynę ur. w
-          1821, Kacpra (1826-1903), <b>Karola (1828-1903)</b>, Ludwikę ur. w
-          1831, Franciszkę ur. w 1835. Kacper ożenił się w Jaszowicach, zaś
-          Karol w Gulinku. Pierwszą żoną Kacpra była Marianna Moskwa vel
-          Moskwina. Ślub wzięli w 1848. Mieli Jędrzeja (ur. w 1860) i Mariannę
-          (ur. w 1860), Kacper owdowiał. Drugą żoną Kacpra została w 1893 wdowa,
-          Franciszka Mortka z d. Indrzejoska.
+          Mieli 8 dzieci: Józefę, Jadwigę, Mariannę ur. w 1833, Katarzynę ✝1921,
+          Kacpra (1826-1903), <b>Karola (1828-1903)</b>, Ludwikę ur. w 1831,
+          Franciszkę ur. w 1835. Kacper ożenił się w Jaszowicach, zaś Karol w
+          Gulinku. Pierwszą żoną Kacpra była Marianna Moskwa vel Moskwina. Ślub
+          wzięli w 1848. Mieli Jędrzeja (ur. w 1860) i Mariannę (ur. w 1860),
+          Kacper owdowiał. Drugą żoną Kacpra została w 1893 wdowa, Franciszka
+          Mortka z d. Indrzejoska.
         </p>
         <p>
           Józefa w 1841 wyszła za mąż za Józefa Wierachę. Jadwiga poślubiła w

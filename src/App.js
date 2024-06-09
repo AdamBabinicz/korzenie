@@ -10,8 +10,10 @@ import franciszka from "./components/Signin/franciszka";
 import jozef from "./components/Signin/jozef";
 import helena from "./components/Signin/helena";
 import karol from "./components/Signin/karol";
+import tekla from "./components/Signin/tekla";
 import Signin from "./components/Signin";
 import pawel from "./components/Signin/pawel";
+import katarzyna from "./components/Signin/katarzyna";
 import jan from "./components/Signin/jan";
 import józef from "./components/Signin/józef";
 import tomasz from "./components/Signin/tomasz";
@@ -32,8 +34,10 @@ function App() {
         <Route path="/jozef" component={jozef} />
         <Route path="/helena" component={helena} />
         <Route path="/karol" component={karol} />
+        <Route path="/tekla" component={tekla} />
         <Route path="/signin" component={Signin} />
         <Route path="/pawel" component={pawel} />
+        <Route path="/katarzyna" component={katarzyna} />
         <Route path="/jan" component={jan} />
         <Route path="/józef" component={józef} />
       </Switch>

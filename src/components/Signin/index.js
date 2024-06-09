@@ -62,7 +62,7 @@ const SignIn = () => {
           <FamilyH2 to="/karol">
             u. 1828 Karol&nbsp;Gierczak (Gerczak) ✝1903
           </FamilyH2>
-          <FamilyH2 to="#">
+          <FamilyH2 to="/tekla">
             u. 19.10.1831 Tekla&nbsp;Kozyra (Kozera) ✝1909
           </FamilyH2>
         </ContainerWrap>
@@ -81,7 +81,7 @@ const SignIn = () => {
           <FamilyH2 to="/pawel">
             u. 11.01.1867 Paweł&nbsp;Gierczak (Gerczak) ✝29.07.1935
           </FamilyH2>
-          <FamilyH2 to="#">Katarzyna&nbsp;Czerwińska</FamilyH2>
+          <FamilyH2 to="/katarzyna">Katarzyna&nbsp;Czerwińska</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 1887</ContainerP>
         <ArrowIcon>
