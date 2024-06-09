@@ -6,14 +6,12 @@ function Popup(props) {
   return props.trigger ? (
     <PopupContainer>
       <PopupInner>
-        <Button onClick={() => props.setTrigger(false)}>
+        <Button to="#" onClick={() => props.setTrigger(false)}>
           <IoMdClose />
         </Button>
         {props.children}
       </PopupInner>
     </PopupContainer>
-  ) : (
-    ""
-  );
+  ) : null;
 }
 export default Popup;

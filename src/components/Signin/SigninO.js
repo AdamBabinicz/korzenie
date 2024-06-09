@@ -34,7 +34,9 @@ const SignInO = () => {
         <ContainerH1>Praprzodkowie</ContainerH1>
         <ContainerWrap>
           <FamilyH2 to="/andrzej">Andrzej Ofiara</FamilyH2>
-          <FamilyH2>u. 1876 Franciszka Szaruch (Saruch)</FamilyH2>
+          <FamilyH2 to="/franciszka">
+            u. 1876 Franciszka Szaruch (Saruch)
+          </FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 18xx</ContainerP>
         <ArrowIcon>
@@ -42,7 +44,7 @@ const SignInO = () => {
         </ArrowIcon>
         <ContainerWrap>
           <FamilyH2 to="/jozef">u. 1896 Józef Ofiara ✝17.06.1968</FamilyH2>
-          <FamilyH2>u. 1905 Helena Sobień ✝06.09.1978</FamilyH2>
+          <FamilyH2 to="/helena">u. 1905 Helena Sobień ✝06.09.1978</FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 09.02.1926</ContainerP>
         <ArrowIcon>
