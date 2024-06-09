@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { FaTimes } from "react-icons/fa";
-import Icon1 from "../../images/2.jpg";
-import Icon2 from "../../images/4.jpg";
-import Icon3 from "../../images/6.jpg";
-import Icon4 from "../../images/11.jpg";
+import Icon1 from "../../images/28.jpg";
+import Icon2 from "../../images/30.jpg";
+import Icon3 from "../../images/32.jpg";
+import Icon4 from "../../images/34.jpg";
 import {
   ServicesContainer,
   ServicesH1,
