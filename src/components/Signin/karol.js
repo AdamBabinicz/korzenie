@@ -1,10 +1,14 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Container, Wrapper, Icon } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
+import { DarkOverlayContext } from "../../context/DarkOverlayContext";
+import img from "../../images/3.png";
 
-const ambrozy = () => {
+const Karol = () => {
+  const { isOverlayVisible } = useContext(DarkOverlayContext);
+
   return (
-    <Container>
+    <Container isOverlayVisible={isOverlayVisible}>
       <Wrapper>
         <Icon to="/signin">
           <span>
@@ -15,6 +19,7 @@ const ambrozy = () => {
         <h3>
           Karol Gerczak <span>vel Gierczak</span>
         </h3>
+        <img src={img} alt="..." />
         <p>
           <b>Karol</b> był trzecim dzieckiem Ambrożego i Kunegundy. Żoną Karola
           została w dn. 23.11.1857 Tekla Kozyra vel Kozera z d. Adamczyk
@@ -30,4 +35,4 @@ const ambrozy = () => {
   );
 };
 
-export default ambrozy;
+export default Karol;

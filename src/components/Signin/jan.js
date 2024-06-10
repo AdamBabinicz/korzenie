@@ -1,10 +1,13 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Container, Wrapper, Icon } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
+import { DarkOverlayContext } from "../../context/DarkOverlayContext";
+import img from "../../images/45.png";
 
-const ambrozy = () => {
+const Jan = () => {
+  const { isOverlayVisible } = useContext(DarkOverlayContext);
   return (
-    <Container>
+    <Container isOverlayVisible={isOverlayVisible}>
       <Wrapper>
         <Icon to="/signin">
           <span>
@@ -13,11 +16,11 @@ const ambrozy = () => {
           korzenie
         </Icon>
         <h3>Jan Gierczak</h3>
+        <img src={img} alt="..." />
         <p>
           <b>Jan</b> był ojcem mojego ojca <b>Józefa</b>. Z Agnieszką Baćmagą z
           d. Szewczyk ożenił się w 1917.
         </p>
-        <p></p>
         <p>
           Małżonkowie mieli Jana (żył 2 dni, ✝1918), Mariannę (żyła 2 tygodnie,
           ✝1918), Janinę (żyła 8 tygodni, ✝1920), Stefana (1921-2017),
@@ -29,4 +32,4 @@ const ambrozy = () => {
   );
 };
 
-export default ambrozy;
+export default Jan;

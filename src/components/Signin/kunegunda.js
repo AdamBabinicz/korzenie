@@ -4,8 +4,9 @@ import { BsArrowLeftSquareFill } from "react-icons/bs";
 import { DarkOverlayContext } from "../../context/DarkOverlayContext";
 import img from "../../images/3.png";
 
-const Katarzyna = () => {
+const Kunegunda = () => {
   const { isOverlayVisible } = useContext(DarkOverlayContext);
+
   return (
     <Container isOverlayVisible={isOverlayVisible}>
       <Wrapper>
@@ -16,13 +17,13 @@ const Katarzyna = () => {
           korzenie
         </Icon>
         <h3>
-          Katarzyna Czerwińska <span>z d. Kieraga</span>
+          Kunegunda Gerczak <span>vel Gierczak z d. Kania</span>
         </h3>
         <img src={img} alt="..." />
-        <p>Rodzicami Katarzyny byli Mateusz i Marianna Kieraga.</p>
+        <p>Brak dostępu do danych.</p>
       </Wrapper>
     </Container>
   );
 };
 
-export default Katarzyna;
+export default Kunegunda;

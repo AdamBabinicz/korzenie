@@ -7,7 +7,7 @@ export const PopupContainer = styled.div`
   right: 0;
   bottom: 0;
   width: 100%;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.01);
   min-height: 100vh;
   display: grid;
   place-items: center;
@@ -44,6 +44,7 @@ export const Button = styled.button`
   border: none;
   font-size: 2rem;
   background: transparent;
+  /* z-index: 9999; */
 
   img {
     max-width: 100%;

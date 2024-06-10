@@ -1,10 +1,13 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Container, Wrapper, Icon } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
+import { DarkOverlayContext } from "../../context/DarkOverlayContext";
+import img from "../../images/40.jpg";
 
-const ambrozy = () => {
+const Helena = () => {
+  const { isOverlayVisible } = useContext(DarkOverlayContext);
   return (
-    <Container>
+    <Container isOverlayVisible={isOverlayVisible}>
       <Wrapper>
         <Icon to="/prao">
           <span>
@@ -15,6 +18,7 @@ const ambrozy = () => {
         <h3>
           Helena Ofiara z d. Sobień<span></span>
         </h3>
+        <img src={img} alt="..." />
         <p>
           Moja babcia urodziła się w 1905 r. z rodziców Karola i Ewy Drużdżel.
         </p>
@@ -36,4 +40,4 @@ const ambrozy = () => {
   );
 };
 
-export default ambrozy;
+export default Helena;

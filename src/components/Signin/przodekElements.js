@@ -8,7 +8,9 @@ export const Container = styled.div`
   padding: 0 7rem;
   display: grid;
   place-items: center;
-  background: #ccc;
+  background: ${({ isOverlayVisible }) =>
+    isOverlayVisible ? "rgba(0, 0, 0, 0.5)" : "#ccc"};
+  transition: background 0.5s ease;
 
   @media only screen and (max-width: 678px) {
     padding: 0 1rem;
@@ -16,14 +18,26 @@ export const Container = styled.div`
 `;
 
 export const Wrapper = styled.div`
-  width: 100%;
-  height: auto;
+  max-width: 100%;
+  width: 900px;
   padding: 2rem 5rem;
   background: #fff;
   border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  margin: 1rem 0;
+
+  img {
+    max-width: 100%;
+    height: 300px;
+    object-fit: contain;
+    margin-bottom: 1rem;
+  }
 
   @media only screen and (max-width: 678px) {
     padding: 1rem 2rem;
+    margin: 1rem 0;
+    width: auto;
   }
 
   h3 {

@@ -64,6 +64,7 @@ export const Icon = styled(Link)`
   font-size: 32px;
   transition: all 0.3s ease-in-out;
   text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
+  z-index: 1000;
 
   &:hover {
     color: #fff;
@@ -105,6 +106,7 @@ export const FamilyH2 = styled(Link)`
   flex-direction: column;
   text-decoration: none;
   transition: all 0.3s ease-in-out;
+  z-index: 1000;
 
   &:hover {
     opacity: 0.7;

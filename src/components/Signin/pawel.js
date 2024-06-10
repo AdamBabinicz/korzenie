@@ -1,10 +1,13 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Container, Wrapper, Icon } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
+import { DarkOverlayContext } from "../../context/DarkOverlayContext";
+import img from "../../images/3.png";
 
-const ambrozy = () => {
+const Pawel = () => {
+  const { isOverlayVisible } = useContext(DarkOverlayContext);
   return (
-    <Container>
+    <Container isOverlayVisible={isOverlayVisible}>
       <Wrapper>
         <Icon to="/signin">
           <span>
@@ -15,6 +18,7 @@ const ambrozy = () => {
         <h3>
           Paweł Gerczak <span>vel Gierczak</span>
         </h3>
+        <img src={img} alt="..." />
         <p>
           <b>Paweł</b> pojął za żonę w 1887 Katarzynę Czerwińską c. Marianny
           Kieragi. Mieli Józefę, Adama ur. w 1888 (✝06.03.1889 - 3 miesiące),
@@ -38,4 +42,4 @@ const ambrozy = () => {
   );
 };
 
-export default ambrozy;
+export default Pawel;

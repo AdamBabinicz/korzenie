@@ -1,10 +1,14 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Container, Wrapper, Icon } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
+import { DarkOverlayContext } from "../../context/DarkOverlayContext";
+import img from "../../images/3.png";
 
-const ambrozy = () => {
+const Tomasz = () => {
+  const { isOverlayVisible } = useContext(DarkOverlayContext);
+
   return (
-    <Container>
+    <Container isOverlayVisible={isOverlayVisible}>
       <Wrapper>
         <Icon to="/signin">
           <span>
@@ -15,6 +19,7 @@ const ambrozy = () => {
         <h3>
           Tomasz Gerczak <span>vel Gierczak</span>
         </h3>
+        <img src={img} alt="..." />
         <p>
           Data narodzin mojego 4 x pradziadka nie jest znana. Ożenił się z Zofią
           Giel vel Gielowską. Mieszkali we wsi Jaszowice k. Radomia.
@@ -33,4 +38,4 @@ const ambrozy = () => {
   );
 };
 
-export default ambrozy;
+export default Tomasz;

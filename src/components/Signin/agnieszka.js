@@ -4,7 +4,7 @@ import { BsArrowLeftSquareFill } from "react-icons/bs";
 import { DarkOverlayContext } from "../../context/DarkOverlayContext";
 import img from "../../images/3.png";
 
-const Katarzyna = () => {
+const Agnieszka = () => {
   const { isOverlayVisible } = useContext(DarkOverlayContext);
   return (
     <Container isOverlayVisible={isOverlayVisible}>
@@ -16,13 +16,21 @@ const Katarzyna = () => {
           korzenie
         </Icon>
         <h3>
-          Katarzyna Czerwińska <span>z d. Kieraga</span>
+          Agnieszka Gierczak z d. Baćmaga<span></span>
         </h3>
         <img src={img} alt="..." />
-        <p>Rodzicami Katarzyny byli Mateusz i Marianna Kieraga.</p>
+        <p>
+          Moja babcia urodziła się 13.04.1894 r. z rodziców Kazimierza i
+          Antonimy Szewczyk.
+        </p>
+        <p>
+          Małżonkowie mieli ośmioro dzieci: Jana, Mariannę, Janinę, Zofię,
+          Stefana, Władysława, Tadeusza i <b>Józefa</b> - mojego tatę.
+        </p>
+        <p>Pierwsza trójka zmarła we wczesnym dzieciństwie.</p>
       </Wrapper>
     </Container>
   );
 };
 
-export default Katarzyna;
+export default Agnieszka;

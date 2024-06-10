@@ -1,10 +1,13 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Container, Wrapper, Icon } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
+import { DarkOverlayContext } from "../../context/DarkOverlayContext";
+import img from "../../images/3.png";
 
-const ambrozy = () => {
+const Franciszka = () => {
+  const { isOverlayVisible } = useContext(DarkOverlayContext);
   return (
-    <Container>
+    <Container isOverlayVisible={isOverlayVisible}>
       <Wrapper>
         <Icon to="/prao">
           <span>
@@ -15,10 +18,11 @@ const ambrozy = () => {
         <h3>
           Franciszka Szaruch <span></span>
         </h3>
+        <img src={img} alt="..." />
         <p>Brak danych.</p>
       </Wrapper>
     </Container>
   );
 };
 
-export default ambrozy;
+export default Franciszka;

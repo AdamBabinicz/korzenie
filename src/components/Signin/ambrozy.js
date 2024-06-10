@@ -1,10 +1,13 @@
-import React from "react";
+import React, { useContext } from "react";
 import { Container, Wrapper, Icon } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
+import { DarkOverlayContext } from "../../context/DarkOverlayContext";
+import img from "../../images/3.png";
 
-const ambrozy = () => {
+const Ambrozy = () => {
+  const { isOverlayVisible } = useContext(DarkOverlayContext);
   return (
-    <Container>
+    <Container isOverlayVisible={isOverlayVisible}>
       <Wrapper>
         <Icon to="/signin">
           <span>
@@ -15,6 +18,7 @@ const ambrozy = () => {
         <h3>
           Ambroży Gerczak <span>vel Gierczak</span>
         </h3>
+        <img src={img} alt="..." />
         <p>
           Data narodzin mojego 3 x pradziadka nie jest znana. Ożenił się
           prawdopodobnie w 1820 z Kunegundą Kanią vel Kanionka (Koniak) c.
@@ -39,4 +43,4 @@ const ambrozy = () => {
   );
 };
 
-export default ambrozy;
+export default Ambrozy;

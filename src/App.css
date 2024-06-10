@@ -5,6 +5,9 @@
   font-family: "Caveat Brush", cursive;
   /* color: rgb(170, 169, 169); */
 }
+html {
+  overflow-x: hidden;
+}
 body {
   overflow-x: hidden;
 }
