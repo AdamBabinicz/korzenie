@@ -28,11 +28,19 @@ const Pawel = () => {
           Stanisławę ur. w 1911 (✝1911 - 3 tyg.).
         </p>
         <p>
-          Antoni wziął za żonę Honoratę Musiałek c. Józefy Banasiak. Ślub odbył
-          się w 1931 w Zakrzewie (Zakrzowie).
+          Syanisław ożenił się w 1921 z Anielą Burakowską c. Andrzeja i Teofili
+          w parafii Błotnica.
         </p>
         <p>
-          Franciszek ożenił się w 1932 z Feliksą Szczygłowską c. Karoliny
+          Władysław pojął za żonę w 1924 Stanisławę Jabłonkę c. Marcina i Józefy
+          Głogoskiej. Nażeczona pochodziła z Zatopolic p. Cerekiew.
+        </p>
+        <p>
+          Antoni wziął za żonę Honoratę Musiałek c. Franciszka i Józefy
+          Banasiak. Ślub odbył się w 1931 w Zakrzewie (Zakrzowie).
+        </p>
+        <p>
+          Franciszek ożenił się w 1932 z Feliksą Szczygłowską c. Jana i Karoliny
           Kozłowskiej. Ślub odbył się w parafii Kowala-Stępocina.
         </p>
         <p>Józefa wyszła za mąż w 1928 za wdowca Władysława Walczaka.</p>

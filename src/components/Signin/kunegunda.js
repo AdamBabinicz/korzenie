@@ -20,7 +20,11 @@ const Kunegunda = () => {
           Kunegunda Gerczak <span>vel Gierczak z d. Kania</span>
         </h3>
         <img src={img} alt="..." />
-        <p>Brak dostępu do danych.</p>
+        <p>Rodzicami Kunegundy byli Stanisław i Magdalena.</p>
+        <p>
+          Po śmierci Ambrożego wyszła za mąż w 1837 za Mikołaja Remisiewskiego
+          syna Łukasza i Moniki Łosiak.
+        </p>
       </Wrapper>
     </Container>
   );

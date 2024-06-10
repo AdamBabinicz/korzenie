@@ -18,8 +18,8 @@ const Jan = () => {
         <h3>Jan Gierczak</h3>
         <img src={img} alt="..." />
         <p>
-          <b>Jan</b> był ojcem mojego ojca <b>Józefa</b>. Z Agnieszką Baćmagą z
-          d. Szewczyk ożenił się w 1917.
+          <b>Jan</b> ur. w Gulinku w 1891 był ojcem mojego ojca
+          <b> Józefa</b>. Z Agnieszką Baćmagą z d. Szewczyk ożenił się w 1917.
         </p>
         <p>
           Małżonkowie mieli Jana (żył 2 dni, ✝1918), Mariannę (żyła 2 tygodnie,
