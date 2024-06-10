@@ -20,7 +20,8 @@ const Helena = () => {
         </h3>
         <img src={img} alt="..." />
         <p>
-          Moja babcia urodziła się w 1905 r. z rodziców Karola i Ewy Drużdżel.
+          Moja babcia urodziła się w 1905 r. z rodziców Karola i&nbsp;Ewy
+          Drużdżel.
         </p>
         <p>
           Była drugą żoną Józefa (ur. w 1896 r. w Ludwikowie) - wdowca po
@@ -28,12 +29,12 @@ const Helena = () => {
         </p>
         <p>
           mieli sześcioro dzieci: Kazimierę, Genowefę, Andrzeja, Józefa,
-          <b> Mariannę</b> - moją mamę i Romana.
+          <b> Mariannę</b> - moją mamę i&nbsp;Romana.
         </p>
         <p>Pierwsza czwórka dzieci zmarła bardzo wcześnie.</p>
         <p>
           Razem z pozostałymi wychowywały się dzieci dziadka z pierwszego
-          małżeństwa: Piotr, Stanisław i Jan.
+          małżeństwa: Piotr, Stanisław i&nbsp;Jan.
         </p>
       </Wrapper>
     </Container>
