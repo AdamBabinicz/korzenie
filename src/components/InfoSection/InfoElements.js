@@ -126,6 +126,9 @@ export const PopupContent = styled.div`
 
 export const PopupParagraph = styled.p`
   margin-bottom: 1rem; /* Odstęp między paragrafami */
-  font-size: 1.2rem; /* Dostosuj rozmiar czcionki według potrzeb */
+  font-size: 1.5rem; /* Dostosuj rozmiar czcionki według potrzeb */
   line-height: 1.5; /* Wysokość linii dla lepszej czytelności */
+
+  @media screen and (max-width: 640px) {
+  }
 `;
