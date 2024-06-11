@@ -13,7 +13,6 @@ export const InfoContainer = styled.div`
 export const InfoWrapper = styled.div`
   display: grid;
   z-index: 1;
-  /* height: 860px; */
   height: auto;
   width: 100%;
   max-width: 1100px;
@@ -113,9 +112,20 @@ export const ImgEnd = styled.img`
 
 export const Img = styled.img`
   width: 100%;
-  /* margin: 0 0 10px 0; */
   padding-right: 0;
   display: flex;
   justify-content: center;
   align-items: center;
+`;
+
+export const PopupContent = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+`;
+
+export const PopupParagraph = styled.p`
+  margin-bottom: 1rem; /* Odstęp między paragrafami */
+  font-size: 1.2rem; /* Dostosuj rozmiar czcionki według potrzeb */
+  line-height: 1.5; /* Wysokość linii dla lepszej czytelności */
 `;

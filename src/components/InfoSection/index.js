@@ -91,9 +91,9 @@ const InfoSection = ({
                 <ImgEnd src={image} alt={alt} />
               </Popup>
               <Popup trigger={buttonPopup1} setTrigger={setButtonPopup1}>
-                {par} <br /> <br />
-                {par1} <br /> <br />
-                {par2}
+                <p>{par}</p>
+                <p>{par1}</p>
+                <p>{par2}</p>
               </Popup>
             </Column1>
             <Column2>
