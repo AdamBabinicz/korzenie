@@ -35,7 +35,7 @@ export const PopupInner = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 2rem;
+  padding: 1rem;
   width: 100%;
   max-height: 90vh; /* Zmieniono na 90vh */
   max-width: 640px;
@@ -45,6 +45,7 @@ export const PopupInner = styled.div`
   opacity: 0;
   transition: all 0.5s ease;
   overflow-y: auto; /* Dodano overflow-y: auto */
+  box-sizing: border-box; /* Dodano box-sizing */
 
   &.active {
     transform: translateY(0);
