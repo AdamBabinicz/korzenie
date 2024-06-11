@@ -45,6 +45,7 @@ export const PopupInner = styled.div`
   transform: translateY(-20px);
   opacity: 0;
   transition: all 0.5s ease;
+  overflow-y: auto;
 
   &.active {
     transform: translateY(0);
