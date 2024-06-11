@@ -53,6 +53,7 @@ export const PopupInner = styled.div`
 
   @media screen and (max-width: 640px) {
     overflow-y: auto;
+    max-height: 95vh;
   }
 `;
 
