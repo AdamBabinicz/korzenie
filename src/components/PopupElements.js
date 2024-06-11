@@ -7,12 +7,12 @@ export const PopupContainer = styled.div`
   right: 0;
   bottom: 0;
   width: 100%;
-  min-height: 100vh;
-  display: grid;
-  place-items: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: #333;
   z-index: 999;
-  border-radius: 5px;
   background: rgba(0, 0, 0, 0);
   opacity: 0;
   visibility: hidden;
@@ -25,8 +25,7 @@ export const PopupContainer = styled.div`
   }
 
   @media screen and (max-width: 640px) {
-    width: 93%;
-    margin: auto;
+    padding: 0 1rem;
   }
 `;
 
@@ -36,15 +35,16 @@ export const PopupInner = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 32px;
+  padding: 2rem;
   width: 100%;
-  max-height: 100%;
+  max-height: 90vh; /* Zmieniono na 90vh */
   max-width: 640px;
   background: #fff;
   border-radius: 8px;
   transform: translateY(-20px);
   opacity: 0;
   transition: all 0.5s ease;
+  overflow-y: auto; /* Dodano overflow-y: auto */
 
   &.active {
     transform: translateY(0);
@@ -52,9 +52,8 @@ export const PopupInner = styled.div`
   }
 
   @media screen and (max-width: 640px) {
-    overflow-y: auto;
-    max-height: 98vh;
-    padding: 2rem 1.5rem;
+    max-height: 90vh; /* Dostosowanie maksymalnej wysokości na mniejszych ekranach */
+    padding: 1rem; /* Zmniejszono padding */
   }
 `;
 
