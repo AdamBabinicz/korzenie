@@ -59,7 +59,7 @@ export const PopupInner = styled.div`
   }
 
   p {
-    margin-bottom: 1rem; /* Dodano odstępy między paragrafami */
+    margin-bottom: 0.7rem; /* Dodano odstępy między paragrafami */
   }
 `;
 
