@@ -53,7 +53,7 @@ export const PopupInner = styled.div`
   }
 
   @media screen and (max-width: 640px) {
-    max-height: 90vh; /* Dostosowanie maksymalnej wysokości na mniejszych ekranach */
+    max-height: 98vh; /* Dostosowanie maksymalnej wysokości na mniejszych ekranach */
     padding: 1rem; /* Zmniejszono padding */
   }
 `;
