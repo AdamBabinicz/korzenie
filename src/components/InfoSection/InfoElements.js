@@ -123,12 +123,3 @@ export const PopupContent = styled.div`
   flex-direction: column;
   align-items: flex-start;
 `;
-
-export const PopupParagraph = styled.p`
-  margin-bottom: 1rem; /* Odstęp między paragrafami */
-  font-size: 1.5rem; /* Dostosuj rozmiar czcionki według potrzeb */
-  line-height: 1.5; /* Wysokość linii dla lepszej czytelności */
-
-  @media screen and (max-width: 640px) {
-  }
-`;

@@ -37,8 +37,9 @@ export const PopupInner = styled.div`
   align-items: center;
   padding: 20px;
   width: 100%;
-  max-height: 90vh; /* Zmieniono na 90vh */
-  max-width: 640px;
+  max-height: 98vh;
+  height: auto;
+  max-width: 740px;
   background: #fff;
   border-radius: 8px;
   transform: translateY(-20px);
@@ -51,21 +52,25 @@ export const PopupInner = styled.div`
     transform: translateY(0);
     opacity: 1;
   }
+  p {
+    margin-bottom: 1rem; /* Dodano odstępy między paragrafami */
+    font-size: 1.3rem;
+  }
 
   @media screen and (max-width: 640px) {
     max-height: 95vh; /* Dostosowanie maksymalnej wysokości na mniejszych ekranach */
     padding: 2rem 1rem; /* Zmniejszono padding */
-  }
-
-  p {
-    margin-bottom: 0.6rem; /* Dodano odstępy między paragrafami */
+    p {
+      margin-bottom: 0.6rem; /* Dodano odstępy między paragrafami */
+      font-size: 1rem;
+    }
   }
 `;
 
 export const Button = styled.button`
   position: absolute;
-  top: 16px;
-  right: 16px;
+  top: 10px;
+  right: 10px;
   cursor: pointer;
   border: none;
   font-size: 2rem;
@@ -76,7 +81,7 @@ export const Button = styled.button`
   }
 
   @media screen and (max-width: 640px) {
-    top: 0.7rem;
-    right: 0.7rem;
+    top: 0.5rem;
+    right: 0.5rem;
   }
 `;
