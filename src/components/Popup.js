@@ -2,16 +2,17 @@ import React from "react";
 import { PopupContainer, PopupInner, Button } from "./PopupElements.js";
 import { IoMdClose } from "react-icons/io";
 
-function Popup(props) {
-  return props.trigger ? (
-    <PopupContainer>
-      <PopupInner>
-        <Button to="#" onClick={() => props.setTrigger(false)}>
+function Popup({ trigger, setTrigger, children }) {
+  return (
+    <PopupContainer className={trigger ? "active" : ""}>
+      <PopupInner className={trigger ? "active" : ""}>
+        <Button onClick={() => setTrigger(false)}>
           <IoMdClose />
         </Button>
-        {props.children}
+        {children}
       </PopupInner>
     </PopupContainer>
-  ) : null;
+  );
 }
+
 export default Popup;
