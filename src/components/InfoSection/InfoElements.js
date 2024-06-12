@@ -71,6 +71,7 @@ export const Heading = styled.h1`
   font-weight: 600;
   color: ${({ lightText }) => (lightText ? "#ccc" : "rgb(245, 243, 243)")};
   text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
+  text-wrap: balance;
 
   @media screen and (max-width: 640px) {
     font-size: 3rem;

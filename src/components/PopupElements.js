@@ -59,9 +59,9 @@ export const PopupInner = styled.div`
 
   @media screen and (max-width: 640px) {
     max-height: 95vh; /* Dostosowanie maksymalnej wysokości na mniejszych ekranach */
-    padding: 2rem 1rem; /* Zmniejszono padding */
+    padding: 2.5rem 1rem; /* Zmniejszono padding */
     p {
-      margin-bottom: 0.6rem; /* Dodano odstępy między paragrafami */
+      margin-bottom: 0.5rem; /* Dodano odstępy między paragrafami */
       font-size: 1rem;
     }
   }
