@@ -85,7 +85,7 @@ export const Button = styled.button`
   }
 
   @media screen and (max-width: 640px) {
-    top: 0.5rem;
-    right: 0.5rem;
+    top: 0.2rem;
+    right: 0.2rem;
   }
 `;
