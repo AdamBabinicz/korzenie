@@ -25,8 +25,8 @@ const Tomasz = () => {
           Giel vel Gielowską. Mieszkali we wsi Jaszowice k. Radomia.
         </p>
         <p>
-          Mieli 4 dzieci: <b>Ambrożego (✝1836)</b>, Michała (✝1854), Andrzeja
-          (✝1868) i Mariannę (✝1916).
+          Mieli 5 dzieci: Franciszka ur. 24.11.1816, <b>Ambrożego (✝1836)</b>,
+          Michała (✝1854), Andrzeja (✝1868) i Mariannę (✝1916).
         </p>
         <p>
           Andrzej ożenił się w 1837 z Teresą Pączek (Górniak, Gurniak, Gorniak,
