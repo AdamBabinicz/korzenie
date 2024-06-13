@@ -35,7 +35,7 @@ export const PopupInner = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 20px;
+  padding: 40px 60px;
   width: 100%;
   max-height: 98vh;
   height: auto;
@@ -55,13 +55,17 @@ export const PopupInner = styled.div`
   p {
     margin-bottom: 1rem; /* Dodano odstępy między paragrafami */
     font-size: 1.3rem;
+
+    :last-of-type {
+      margin-bottom: 0; /* Brak odstępu dla ostatniego paragrafu */
+    }
   }
 
   @media screen and (max-width: 640px) {
     max-height: 95vh; /* Dostosowanie maksymalnej wysokości na mniejszych ekranach */
     padding: 2.5rem 1rem; /* Zmniejszono padding */
     p {
-      margin-bottom: 0.5rem; /* Dodano odstępy między paragrafami */
+      margin-bottom: 0.2rem;
       font-size: 1rem;
     }
   }
