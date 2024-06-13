@@ -34,7 +34,7 @@ const Ambrozy = () => {
           Ludwikę ur. w 1831, Franciszkę ur. w 1835. Kacper ożenił się w
           Jaszowicach, zaś Karol w Gulinku. Pierwszą żoną Kacpra była Marianna
           Moskwa vel Moskwina. Ślub wzięli w 1848. Mieli Jędrzeja (ur. w 1859) i
-          Mariannę (ur. w 1857, ✝1875), Kacper owdowiał. Drugą żoną Kacpra
+          Mariannę (ur. w 1857, ✝1860), Kacper owdowiał. Drugą żoną Kacpra
           została w 1893 wdowa, Franciszka Mortka z d. Indrzejoska.
         </p>
         <p>
