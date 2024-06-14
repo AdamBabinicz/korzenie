@@ -3,8 +3,10 @@ import { Container, Wrapper, Icon } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
 import { DarkOverlayContext } from "../../context/DarkOverlayContext";
 import img from "../../images/40.jpg";
+import useScrollManager from "../../ScrollManager";
 
 const Helena = () => {
+  useScrollManager();
   const { isOverlayVisible } = useContext(DarkOverlayContext);
   return (
     <Container isOverlayVisible={isOverlayVisible}>

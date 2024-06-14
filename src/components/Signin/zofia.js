@@ -3,8 +3,10 @@ import { Container, Wrapper, Icon } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
 import { DarkOverlayContext } from "../../context/DarkOverlayContext";
 import img from "../../images/3.png";
+import useScrollManager from "../../ScrollManager";
 
 const Zofia = () => {
+  useScrollManager();
   const { isOverlayVisible } = useContext(DarkOverlayContext);
 
   return (
