@@ -124,15 +124,15 @@
   /* width: 500px; */
   position: relative;
   background: var(--container-color);
-  padding: 2.5rem;
-  border-radius: 1.5rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
 }
 .services__modal-close {
   position: absolute;
   top: 1rem;
   right: 1rem;
   font-size: 1.5rem;
-  color: var(--text-color);
+  color: var(--container-color);
   cursor: pointer;
 }
 .services__modal-title {
@@ -154,9 +154,10 @@
   justify-content: center;
 }
 .services__modal-services img {
-  height: 500px;
+  height: 550px;
   width: max-content;
   object-fit: contain;
+  border-radius: 0.3rem;
 }
 .services__modal-service {
   display: flex;
@@ -199,14 +200,16 @@
     font-size: 1.5rem;
   }
   .services__modal-services img {
-    height: 220px;
+    max-height: 420px;
     width: 100%;
-    object-fit: contain;
+    object-fit: cover;
+    border-radius: 0.3rem;
   }
 }
 @media only screen and (max-width: 576px) {
   .services__modal-content {
-    padding: 4.5rem 1.5rem 2.5rem;
+    /* padding: 4.5rem 1.5rem 2.5rem; */
+    padding: 0.5rem;
   }
   .services__modal-description {
     padding: 0;
