@@ -50,7 +50,7 @@ const Services = () => {
 
   return (
     <ServicesContainer id="services">
-      <ServicesH1>Archiwum</ServicesH1>
+      <ServicesH2>Archiwum</ServicesH2>
       <ServicesWrapper>
         {serviceData.map((service) => (
           <React.Fragment key={service.id}>

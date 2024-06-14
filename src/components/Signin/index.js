@@ -8,7 +8,7 @@ import {
   Icon,
   FormContent,
   Form,
-  FormH1,
+  FormH2,
   FormLabel,
   FormInput,
   FormButton,

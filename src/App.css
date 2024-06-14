@@ -44,3 +44,6 @@ body {
   object-fit: cover;
   margin-bottom: 2rem;
 }
+h3 {
+  text-wrap: balance;
+}

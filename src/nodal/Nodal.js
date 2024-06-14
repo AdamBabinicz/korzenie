@@ -50,8 +50,8 @@ const Nodal = () => {
         <Link to="/" className="link">
           <GiSecurityGate />
         </Link>
-        <h1>Polityka prywatności i polityka cookies</h1>
-        <h2>I Informacje ogólne</h2> <br />
+        <h2>Polityka prywatności i polityka cookies</h2>
+        <h3>I Informacje ogólne</h3> <br />
         <p>
           Niniejsza Polityka Prywatności określa sposób pozyskiwania,
           przetwarzania oraz zabezpieczania danych osobowych w rozumieniu ustawy

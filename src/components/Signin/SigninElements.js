@@ -28,7 +28,7 @@ export const Container = styled.div`
   }
 `;
 
-export const ContainerH1 = styled.h1`
+export const ContainerH1 = styled.h2`
   font-size: 4rem;
   margin-bottom: 2rem;
   text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
@@ -153,7 +153,7 @@ export const Form = styled.form`
   }
 `;
 
-export const FormH1 = styled.h1`
+export const FormH2 = styled.h2`
   margin-bottom: 40px;
   color: #fff;
   font-size: 20px;

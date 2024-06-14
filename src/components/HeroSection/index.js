@@ -6,7 +6,7 @@ import {
   HeroBg,
   VideoBg,
   HeroContent,
-  HeroH1,
+  HeroH2,
   HeroP,
   HeroSpan,
   HeroBtnWrapper,
@@ -33,7 +33,7 @@ const HeroSection = () => {
           Stanisław Ofiara s. Alberta i&nbsp;Zofi ur. w&nbsp;1574 r.
           w&nbsp;Łęczycy).
         </HeroSpan>
-        <HeroH1>Nasi protoplaści</HeroH1>
+        <HeroH2>Nasi protoplaści</HeroH2>
         <HeroP>Im zawdzięczamy życie.</HeroP>
         <HeroBtnWrapper>
           <Button
