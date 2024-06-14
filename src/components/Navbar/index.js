@@ -44,7 +44,7 @@ const Navbar = ({ toggle }) => {
               <GiTreeRoots />
             </GiTreeRootsIcon>
             <NavLogo to="/" onClick={toggleHome}>
-              rody Gierczaków i&nbsp;Ofiarów
+              <p>rody Gierczaków i&nbsp;Ofiarów</p>
             </NavLogo>
             <MobileIcon onClick={toggle}>
               <FaBars />

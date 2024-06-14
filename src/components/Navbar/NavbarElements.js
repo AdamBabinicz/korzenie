@@ -57,6 +57,12 @@ export const NavLogo = styled(LinkR)`
   text-decoration: none;
   transition: all 0.3s ease-in-out;
 
+  @media screen and (max-width: 480px) {
+    p {
+      width: 70%;
+    }
+  }
+
   &:hover {
     color: rgb(170, 169, 169);
   }
