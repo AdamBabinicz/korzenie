@@ -6,7 +6,7 @@ import Icon3 from "../../images/32.jpg";
 import Icon4 from "../../images/34.jpg";
 import {
   ServicesContainer,
-  ServicesH1,
+  ServicesH3,
   ServicesWrapper,
   ServicesCard,
   ServicesIcon,
@@ -63,7 +63,7 @@ const Services = () => {
                     "https://a-g.netlify.app/static/media/1.d8271f81fc6664b2ff5155603db41d5a.svg"; // Zastąp placeholder_image_url rzeczywistym adresem do alternatywnego obrazu
                 }}
               />
-              <ServicesH2>{service.title}</ServicesH2>
+              <ServicesH3>{service.title}</ServicesH3>
               <ServicesP>{service.description}</ServicesP>
             </ServicesCard>
 
