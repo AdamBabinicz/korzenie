@@ -23,7 +23,7 @@ const Ambrozy = () => {
         <img src={img} alt="..." />
         <p>
           Data narodzin mojego 3 x pradziadka nie jest znana. Należy
-          domniemywać, że urodził się pod koniec XVIII w. lub na początku XIXw.
+          domniemywać, że urodził się pod koniec XVIII w. lub na początku XIX w.
           Zmarł w 1836 r.
         </p>
         <p>
