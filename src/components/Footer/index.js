@@ -107,6 +107,7 @@ function Footer() {
               <SocialIconLink
                 href="//www.facebook.com/adam.gierczak.334"
                 target="_blank"
+                rel="noopener noreferrer"
                 aria-label="Facebook"
               >
                 <FaFacebook />
@@ -114,6 +115,7 @@ function Footer() {
               <SocialIconLink
                 href="//twitter.com/AdamBabinicz"
                 target="_blank"
+                rel="noopener noreferrer"
                 aria-label="Twitter"
               >
                 <FaTwitter />
@@ -121,6 +123,7 @@ function Footer() {
               <SocialIconLink
                 href="//www.google.com/"
                 target="_blank"
+                rel="noopener noreferrer"
                 aria-label="Google"
               >
                 <FaGoogle />
@@ -128,6 +131,7 @@ function Footer() {
               <SocialIconLink
                 href="//github.com/AdamBabinicz"
                 target="_blank"
+                rel="noopener noreferrer"
                 aria-label="Github"
               >
                 <FaGithub />
