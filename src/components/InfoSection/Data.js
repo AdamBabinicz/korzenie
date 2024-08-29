@@ -1,12 +1,12 @@
-import img1 from "../../images/29.jpg";
-import img2 from "../../images/31.jpg";
-import img3 from "../../images/38.jpg";
-import img4 from "../../images/35.jpg";
-import img5 from "../../images/8.jpg";
-import img6 from "../../images/9.jpg";
-import img7 from "../../images/22.jpg";
-import img8 from "../../images/10.jpg";
-import img9 from "../../images/3.png";
+import img1 from "../../images/29.avif";
+import img2 from "../../images/31.avif";
+import img3 from "../../images/38.avif";
+import img4 from "../../images/35.avif";
+import img5 from "../../images/8.avif";
+import img6 from "../../images/9.avif";
+import img7 from "../../images/22.avif";
+import img8 from "../../images/10.avif";
+import img9 from "../../images/3.avif";
 
 export const homeObjOne = {
   id: "jan",
