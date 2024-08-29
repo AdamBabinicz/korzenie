@@ -22,7 +22,7 @@ const Agnieszka = () => {
         </h3>
         <img src={img} alt="..." />
         <p>
-          Moja babcia urodziła się 13.04.1894 r. z&nbsp;rodziców Kazimierza
+          Moja babcia urodziła się 13.04.1894 z&nbsp;rodziców Kazimierza
           i&nbsp;Antonimy Szewczyk.
         </p>
         <p>

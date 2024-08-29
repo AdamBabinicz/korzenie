@@ -16,7 +16,7 @@ export const homeObjOne = {
   topLine: "Mój dziadek ze strony taty",
   headline: "Jan Gierczak",
   description:
-    "Urodził się w 1891 r. W 1917 r. ożenił się z Agnieszką (ur. w 1894 r.) z domu Baćmaga (rodzicami Agnieszki byli Kazimierz i Antonina Szewczyk). Małżonkowie mieli ośmioro dzieci: Jana, Mariannę, Janinę, Zofię, Stefana, Władysława, Tadeusza i Józefa - mojego tatę. Pierwsza trójka zmarła we wczesnym dzieciństwie.",
+    "Urodził się w 1891. W 1917 ożenił się z Agnieszką (ur. w 1894) z domu Baćmaga (rodzicami Agnieszki byli Kazimierz i Antonina Szewczyk). Małżonkowie mieli ośmioro dzieci: Jana, Mariannę, Janinę, Zofię, Stefana, Władysława, Tadeusza i Józefa - mojego tatę. Pierwsza trójka zmarła we wczesnym dzieciństwie.",
   buttonLabel: "Czytaj więcej",
   buttonLabel1: "✝⚱",
   desc: "🕯",
@@ -40,7 +40,7 @@ export const homeObjTwo = {
   topLine: "Moja babcia ze strony mamy",
   headline: "Helena Ofiara z d. Sobień (1905 - 1978)",
   description:
-    "Urodziła się w 1905 r. z rodziców Karola i Ewy Drużdżel. Była drugą żoną Józefa (ur. w 1896 r. w Ludwikowie) - wdowca po Rozalii z Mitaków (33) ✝1925 r; mieli sześcioro dzieci: Kazimierę, Genowefę, Andrzeja, Józefa, Mariannę - moją mamę i Romana (na zdjęciu). Pierwsza czwórka dzieci zmarła bardzo wcześnie. Razem z pozostałymi wychowywały się dzieci dziadka z pierwszego małżeństwa: Piotr, Stanisław i Jan.",
+    "Urodziła się w 1905 z rodziców Karola i Ewy Drużdżel. Była drugą żoną Józefa (ur. w 1896 w Ludwikowie) - wdowca po Rozalii z Mitaków (33) ✝1925; mieli sześcioro dzieci: Kazimierę, Genowefę, Andrzeja, Józefa, Mariannę - moją mamę i Romana (na zdjęciu). Pierwsza czwórka dzieci zmarła bardzo wcześnie. Razem z pozostałymi wychowywały się dzieci dziadka z pierwszego małżeństwa: Piotr, Stanisław i Jan.",
   buttonLabel: "Czytaj więcej",
   buttonLabel1: "✝⚱",
   desc: "🕯 🕯 🕯",
@@ -115,7 +115,7 @@ export const homeObjFive = {
   topLine: "Moja babcia ze strony ojca",
   headline: "Agnieszka Gierczak",
   par: "Z opowiadania wiem, że pewnego razu babcia spojrzała w górę na wiśnię lub czereśnię i wówczas mała gałązka oderwała się z drzewa i trafiła babcię w oko. Od tamtej pory miała problem z widzeniem przez uszkodzone oko. Kiedyś babcia Agnieszka udwiedziła nas w mieszkaniu na ul. Czarnej. Była bardzo zaciekawiona telewizorem i nie mogła nadziwić się, że poruszają się w nim osoby. W pewnym momencie żartując zapytała: 'czy w środku są małe ludziki?'.",
-  description: "Urodziła się 13.04.1894 r.",
+  description: "Urodziła się 13.04.1894",
   buttonLabel: "Zobacz więcej",
   desc: "🕯",
   cemetery: "Cmentarz Parafialny w Zakrzewie",
