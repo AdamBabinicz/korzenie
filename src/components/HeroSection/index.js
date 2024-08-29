@@ -26,7 +26,7 @@ const HeroSection = () => {
       </HeroBg>
       <HeroContent>
         <HeroSpan>
-          W Polsce mieszka ok. 3600 osób z nazwiskiem Gierczak (pierwszą
+          W Polsce mieszka ok. 3600 osób z&nbsp;nazwiskiem Gierczak (pierwszą
           wzmiankowaną osobą jest Zofia Gierczak c. Jana i&nbsp;Reginy ur.
           24.02.1646&nbsp; we&nbsp;Wzdole Rządowym) i&nbsp;ok. 820 osób
           z&nbsp;nazwiskiem Ofiara (w&nbsp;archiwum po raz pierwszy pojawia się
