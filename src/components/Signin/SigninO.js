@@ -19,7 +19,7 @@ import {
   ArrowIcon,
   ContainerP,
 } from "./SigninElements";
-import img1 from "../../images/1.png";
+import img1 from "../../images/1.avif";
 
 const SignInO = () => {
   return (

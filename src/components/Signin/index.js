@@ -20,9 +20,9 @@ import {
   ArrowIcon,
   ContainerP,
 } from "./SigninElements";
-import img1 from "../../images/1.png";
-import img from "../../images/4.png";
-import img2 from "../../images/6.png";
+import img1 from "../../images/1.avif";
+import img from "../../images/4.avif";
+import img2 from "../../images/6.avif";
 import { DarkOverlayContext } from "../../context/DarkOverlayContext";
 import { PopupContainer } from "../../components/PopupElements";
 
@@ -101,7 +101,7 @@ const SignIn = () => {
         </ArrowIcon>
         <p>
           Gulinek k. Zakrzewa - prywatna wieś szlachecka Zakrzów, położona była
-          w drugiej połowie XVI wieku w powiecie radomskim województwa
+          w&nbsp;drugiej połowie XVI wieku w&nbsp;powiecie radomskim województwa
           sandomierskiego.
         </p>
         <br />

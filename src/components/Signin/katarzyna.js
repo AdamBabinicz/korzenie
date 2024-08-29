@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { Container, Wrapper, Icon } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
 import { DarkOverlayContext } from "../../context/DarkOverlayContext";
-import img from "../../images/3.png";
+import img from "../../images/3.avif";
 import useScrollManager from "../../ScrollManager";
 
 const Katarzyna = () => {
@@ -18,10 +18,10 @@ const Katarzyna = () => {
           korzenie
         </Icon>
         <h3>
-          Katarzyna Czerwińska <span>z d. Kieraga</span>
+          Katarzyna Czerwińska <span>z&nbsp;d. Kieraga</span>
         </h3>
         <img src={img} alt="..." />
-        <p>Rodzicami Katarzyny byli Mateusz i Marianna Kieraga.</p>
+        <p>Rodzicami Katarzyny byli Mateusz i&nbsp;Marianna Kieraga.</p>
       </Wrapper>
     </Container>
   );
