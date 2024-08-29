@@ -1,2 +1,4 @@
 /static/*
   Cache-Control: max-age=31536000
+/*
+  Link: </static/css/main.4f8ddb9a.chunk.css>; rel=preload; as=style
