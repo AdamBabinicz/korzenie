@@ -30,7 +30,7 @@ const Karol = () => {
         <p>
           Karol zamieszkał z&nbsp;Teklą w Gulinku. Oboje małżonkowie doczakali
           się 3 dzieci: <b>Pawła (1867-1935)</b>, Antoniny ur. w&nbsp;1869
-          i&nbsp;Józefy ur. w&nbsp;1872.
+          i&nbsp;Józefy (ur. w&nbsp;1872 ✝1880).
         </p>
       </Wrapper>
     </Container>

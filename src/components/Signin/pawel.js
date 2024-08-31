@@ -30,7 +30,7 @@ const Pawel = () => {
           ur. w&nbsp;1910 i&nbsp;Stanisławę ur. w&nbsp;1911 (✝1911 - 3 tyg.).
         </p>
         <p>
-          Syanisław ożenił się w&nbsp;1921 z&nbsp;Anielą Burakowską c. Andrzeja
+          Stanisław ożenił się w&nbsp;1921 z&nbsp;Anielą Burakowską c. Andrzeja
           i&nbsp;Teofili w&nbsp;parafii Błotnica.
         </p>
         <p>
