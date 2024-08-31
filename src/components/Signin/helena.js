@@ -31,6 +31,12 @@ const Helena = () => {
           w&nbsp;1908).
         </p>
         <p>
+          Z&nbsp;pierwszego małżeństwa swojej matki Ewy z&nbsp;Michałem Mitakiem
+          miała również rodzeństwo przyrodnie: Weronikę (ur. w&nbsp;1886),
+          Mariannę (ur. w&nbsp;1889), Rozalię (ur.&nbsp;1892) i&nbsp;Jana (ur.
+          w&nbsp; 1894)
+        </p>
+        <p>
           Anna wyszła za mąż w&nbsp;1920 za Władysława Kozyrę s. Józefa
           i&nbsp;Weronki Korczak.
         </p>
