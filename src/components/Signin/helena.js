@@ -26,6 +26,27 @@ const Helena = () => {
           Drużdżel.
         </p>
         <p>
+          Miała siostrę Annę (ur. w&nbsp;1898, ✝1927), Zofię (ur. w&nbsp;1903),
+          oraz braci: Franciszka, Jana (ur. w&nbsp;1900) i&nbsp;Józefa (ur.
+          w&nbsp;1908).
+        </p>
+        <p>
+          Anna wyszła za mąż w&nbsp;1920 za Władysława Kozyrę s. Józefa
+          i&nbsp;Weronki Korczak.
+        </p>
+        <p>
+          Franciszek ożenił się w&nbsp;1922 ze Stefanią Jurczak c. Mikołaja
+          i&nbsp;Katarzyny Soból.
+        </p>
+        <p>
+          Zofia wyszła za mąż w&nbsp;1922 za Michała Odzimka s. Walentego
+          i&nbsp;Zofii Kowalik.
+        </p>
+        <p>
+          Jan ożenił się w&nbsp;1926 ze Stanisławą Bocheńską c. Walentego
+          i&nbsp;Marianny Zarębskiej.
+        </p>
+        <p>
           Była drugą żoną Józefa (ur. w 1896 w Ludwikowie) - wdowca po Rozalii z
           Mitaków (33) ✝1925;
         </p>
