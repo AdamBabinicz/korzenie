@@ -23,8 +23,8 @@ const Pawel = () => {
         <img src={img} alt="..." />
         <p>
           <b>Paweł</b> pojął za żonę w&nbsp;1887 Katarzynę Czerwińską c.
-          Marianny Kieragi. Mieli Józefę, Adama ur. w&nbsp;1888 (✝06.03.1889 - 3
-          miesiące), Józefa ur. w&nbsp;1890 (✝1890 - 6 tyg.),
+          Mateusza i&nbsp;Marianny Kieragi. Mieli Józefę, Adama ur. w&nbsp;1888
+          (✝06.03.1889 - 3 miesiące), Józefa ur. w&nbsp;1890 (✝1890 - 6 tyg.),
           <b> Jana ur. w&nbsp;1890</b>, Stanisława ur. w&nbsp; 1893, Zofię ur.
           w&nbsp;1900, Antoniego ur. w&nbsp;1903, Rozalię (✝1906), Franciszka
           ur. w&nbsp;1910 i&nbsp;Stanisławę ur. w&nbsp;1911 (✝1911 - 3 tyg.).
