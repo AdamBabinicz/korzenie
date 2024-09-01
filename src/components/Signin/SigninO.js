@@ -52,22 +52,6 @@ const SignInO = () => {
         <ArrowIcon>
           <CgArrowBottomLeft />
         </ArrowIcon>
-        {/* <ContainerWrap>
-          <FamilyH2>Paweł Gierczak</FamilyH2>
-          <FamilyH2>Katarzyna Czerwińska</FamilyH2>
-        </ContainerWrap>
-        <ContainerP>ślub: 1887</ContainerP>
-        <ArrowIcon>
-          <CgArrowBottomLeft />
-        </ArrowIcon>
-        <ContainerWrap>
-          <FamilyH2>Jan Gierczak</FamilyH2>
-          <FamilyH2>Agnieszka Baćmaga</FamilyH2>
-        </ContainerWrap>
-        <ContainerP>ślub: 1917</ContainerP>
-        <ArrowIcon>
-          <CgArrowBottomLeft />
-        </ArrowIcon> */}
       </Container>
     </>
   );
