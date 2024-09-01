@@ -28,7 +28,8 @@ const Jozef = () => {
         </p>
         <p>
           Z&nbsp;tego małżeństwa mieli trzech synów: Stanisława ur. w 1919,
-          Piotra (ur. 1921 zm. 03.06.2004) i Jana.
+          Piotra (ur. 1921 zm. 03.06.2004) i&nbsp;Jana (ur. 1925 zm.
+          30.04.2001).
         </p>
         <p>
           Po śmierci Rozalii (33) ożenił się w&nbsp;1926 z&nbsp;Heleną Sobień c.

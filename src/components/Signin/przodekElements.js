@@ -71,11 +71,8 @@ export const Wrapper = styled.div`
 `;
 
 export const Icon = styled(Link)`
-  /* margin-left: 32px; */
-  /* margin-top: 32px; */
   text-decoration: none;
   font-weight: 100;
-  /* color: rgb(90, 89, 89); */
   color: rgb(170, 169, 169);
   font-size: 32px;
   transition: all 0.3s ease-in-out;
@@ -89,5 +86,58 @@ export const Icon = styled(Link)`
 
   &:hover {
     color: #fff;
+  }
+`;
+
+export const Popup = styled.div`
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  transition: opacity 0.3s ease-in-out;
+`;
+
+export const PopupContent = styled.div`
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 90%;
+  max-height: 90%;
+  width: 800px;
+  text-align: center;
+  position: relative;
+  overflow-y: auto;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+  }
+
+  p {
+    font-size: 1rem;
+    font-family: "Tahoma", sans-serif;
+    line-height: 1.4;
+    margin-bottom: 1rem;
+  }
+`;
+
+export const CloseIcon = styled.div`
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: #333;
+
+  &:hover {
+    color: #000;
   }
 `;
