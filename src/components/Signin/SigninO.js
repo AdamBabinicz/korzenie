@@ -44,7 +44,9 @@ const SignInO = () => {
         </ArrowIcon>
         <ContainerWrap>
           <FamilyH2 to="/jozef">u. 1896 Józef Ofiara ✝17.06.1968</FamilyH2>
-          <FamilyH2 to="/helena">u. 1905 Helena Sobień ✝06.09.1978</FamilyH2>
+          <FamilyH2 to="/helena">
+            u. 09.01.1905 Helena Sobień ✝06.09.1978
+          </FamilyH2>
         </ContainerWrap>
         <ContainerP>ślub: 09.02.1926</ContainerP>
         <ArrowIcon>

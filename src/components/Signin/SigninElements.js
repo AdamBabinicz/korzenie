@@ -5,11 +5,6 @@ export const Container = styled.div`
   min-height: 692px;
   min-height: 100vh;
   width: 100%;
-  /* position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  top: 0; */
   z-index: 0;
   overflow: hidden;
   background: linear-gradient(
@@ -55,11 +50,8 @@ export const GiTreeRootsIcon = styled.div`
   text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
 `;
 export const Icon = styled(Link)`
-  /* margin-left: 32px; */
-  /* margin-top: 32px; */
   text-decoration: none;
   font-weight: 100;
-  color: rgb(90, 89, 89);
   color: rgb(170, 169, 169);
   font-size: 32px;
   transition: all 0.3s ease-in-out;
@@ -81,7 +73,6 @@ export const ContainerWrap = styled.div`
   justify-content: space-around;
   width: 100%;
   max-width: 800px;
-  /* margin: 0 auto; */
   padding: 0 50px;
 
   @media screen and (max-width: 640px) {
@@ -97,10 +88,8 @@ export const FamilyH2 = styled(Link)`
   font-size: 1.5rem;
   justify-content: center;
   padding: 1rem 2rem;
-  /* margin-right: 1rem; */
   background: rgba(255, 255, 255, 0.609);
   text-align: center;
-  /* white-space: nowrap; */
   color: #333;
   display: flex;
   flex-direction: column;

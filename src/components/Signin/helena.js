@@ -6,6 +6,7 @@ import {
   Popup,
   PopupContent,
   CloseIcon,
+  StyledSpan,
 } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
 import { IoMdClose } from "react-icons/io";
@@ -41,25 +42,22 @@ const Helena = () => {
         </h3>
         <img src={img} alt="..." />
         <p>
-          Moja babcia urodziła się w&nbsp;1905 z&nbsp;rodziców{" "}
-          <span
-            onClick={handlePopupOpen}
-            style={{ cursor: "pointer", textDecoration: "underline" }}
-          >
+          Moja babcia urodziła się 09.01.1905 z&nbsp;rodziców&nbsp;
+          <StyledSpan onClick={handlePopupOpen}>
             Karola i&nbsp;Ewy Drużdżel
-          </span>
+          </StyledSpan>
           .
         </p>
         <p>
-          Miała siostrę Annę (ur. w&nbsp;1898, ✝1927), Zofię (ur. w&nbsp;1903),
-          oraz braci: Franciszka, Jana (ur. w&nbsp;1900) i&nbsp;Józefa (ur.
-          w&nbsp;1908).
+          Miała siostrę Franciszkę (ur. 15.07.1895), Annę (ur. w&nbsp;1898,
+          ✝1927), Zofię (ur. w&nbsp;1903), oraz braci: Jana (ur. 12.12.1900)
+          i&nbsp;Józefa (ur. w&nbsp;1908).
         </p>
         <p>
           Z&nbsp;pierwszego małżeństwa swojej matki Ewy z&nbsp;Michałem Mitakiem
           miała również rodzeństwo przyrodnie: Weronikę (ur. w&nbsp;1886 zm.
           27.12.1998), Mariannę (ur. w&nbsp;1889 zm. 10.04.1980), Rozalię
-          (ur.&nbsp;1892) i&nbsp;Jana (ur. w&nbsp; 1894)
+          (ur.&nbsp;1892) i&nbsp;Jana (ur. w&nbsp; 1894).
         </p>
         <p>
           Anna wyszła za mąż w&nbsp;1920 za Władysława Kozyrę s. Józefa

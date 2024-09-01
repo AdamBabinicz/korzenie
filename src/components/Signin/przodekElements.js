@@ -70,6 +70,21 @@ export const Wrapper = styled.div`
   }
 `;
 
+export const StyledSpan = styled.span`
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(170, 169, 169);
+  font-family: "Caveat Brush", cursive;
+  font-weight: 100;
+  font-size: 28px;
+  transition: all 0.4s ease-in-out;
+  text-shadow: 0.05rem 0.05rem 0.05rem rgba(0, 0, 0, 0.72);
+
+  :hover {
+    color: #fff;
+  }
+`;
+
 export const Icon = styled(Link)`
   text-decoration: none;
   font-weight: 100;
