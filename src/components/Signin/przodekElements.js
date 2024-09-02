@@ -85,7 +85,7 @@ export const StyledSpan = styled.span`
   }
 
   @media (max-width: 768px) {
-    font-size: 18px;
+    font-size: 20px;
   }
 `;
 
