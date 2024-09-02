@@ -83,6 +83,10 @@ export const StyledSpan = styled.span`
   :hover {
     color: #fff;
   }
+
+  @media (max-width: 768px) {
+    font-size: 18px;
+  }
 `;
 
 export const Icon = styled(Link)`
