@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { Container, Wrapper, Icon } from "./przodekElements";
 import { BsArrowLeftSquareFill } from "react-icons/bs";
 import { DarkOverlayContext } from "../../context/DarkOverlayContext";
-import img from "../../images/karol3.png";
+import img from "../../images/karol3.avif";
 import useScrollManager from "../../ScrollManager";
 
 const Karol = () => {
