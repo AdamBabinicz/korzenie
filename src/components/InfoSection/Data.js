@@ -49,7 +49,7 @@ export const homeObjTwo = {
   image: img5,
   par: "Babcia Helena potrafiła pisać i czytać. Pamiętam naszą rozmowę z mojego wczesnego dzieciństwa na temat śmierci. Babcia powiedziała mi, że wszyscy kiedyś umrą. Częściowo zgodziłem się z nią, ale odpowiedziałem jej, że 'ja nie umrę'. Babcia miała w izbie kufer, w którym trzymała różne rzeczy, między innymi wycofane papierowe pieniądze. Poprosiłem ją o kilka banknotów, z których zrobiłem wycinanki.",
   par1: "W izbie u babci znajdował się kołowrotek do przędzy i inne przydatne urządzenia z drewna: maselnica do masła i prasa do sera białego. Oprócz kołowrotka, cały czas ich używała. Również sama piekła chleb w piecu chlebowym. Dom był wykonany z drewna i kryty słomą. Słyszałem, że dziadek Józef przywiózł go z innej wsi w częściach i postawił na nowo. Były w nim dwie izby z drewnianą podłogą, przedsionek, komora i strych. W czasie okupacji w większej izbie stacjonowali niemieccy żołnierze, a w mniejszej gnieźdiła się cała siedmioosobowa rodzina.",
-  par2: "Dziadek mi opowiadał, że gdy zbliżał się front, podkuł swojego konia gwoździem, aby Niemcy nie zabrali go razem z wozem, widząc, że koń kuleje. Po ucieczce Niemców, dziadek gwóźdź wyjął i koń chodził normalnie. Dzięki temu fortelowi, dziadek ocalił konia bez którego nie mógłby pracować w polu.",
+  par2: "Dziadek mi opowiadał, że gdy zbliżał się front, podkuł swojego konia gwoździem, aby Niemcy nie zabrali go razem z wozem, widząc, że koń kuleje. Po ucieczce Niemców, dziadek gwóźdź wyjął i koń chodził normalnie. Dzięki temu fortelowi, dziadek ocalił wóz i konia bez którego nie mógłby pracować w polu.",
   imgStart: false,
   img: img2,
   alt: "Moja babcia",
