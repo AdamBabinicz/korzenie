@@ -98,7 +98,7 @@ export const homeObjFour = {
   grave: "grób 23",
   image: img6,
   par: "Mój tata po zawarciu małżeństwa, podobnie jak jego brat Tadek, opóścił ojcowiznę i zamieszkał w Radomiu. Również pozostałe rodzeństwo ojca po zmianie stanu cywilnego, Stefek i Zosia osiedliło się w pobliskich wsiach, Dąbrówce i Klwatach. Na gospodarce pozostał Władek. Józek uczył się zawodu szewskiego, ale ostatecznie znalazł pracę w 'Walterze' - największym w Radomiu zakładzie. Pracował tam jako tokarz, frezer i ślifierz aż do przejścia na rentę. Opowiadał mi kiedyś taką historię z lat 50-tych ubiegłego wieku, że idąc do pracy przechodził po kładce nad rzeczką Mleczną i wpadł do wody.",
-  par1: "Tata chętnie jeździł na rodzinną wieś i pomagał w pracach polowych, zwłaszcza gdy przychodziła pora żniw. Za pomoc dostawał ziemniaki, warzywa, owoce i jajka. Był człowiekiem bardzo uczynnym i bezinteresownym. Razem ze swoim bratankiem Kazikiem wykonywali na sprzedaż elektryczne, blaszane piekarniki, na które przyszła moda w latach 80-tych XX wieku. Później razem ze mną jeździł 2 - 3 razy w tygodniu na jarmarki i pomagał mi w sprzedaży.",
+  par1: "Tata chętnie jeździł na rodzinną wieś i pomagał w pracach polowych, zwłaszcza gdy przychodziła pora żniw. Za pomoc dostawał ziemniaki, warzywa, owoce i jajka. Był człowiekiem bardzo uczynnym i bezinteresownym. Razem ze swoim bratankiem Kazikiem wykonywali na sprzedaż elektryczne, blaszane piekarniki, na które przyszła moda w latach 80-tych XX wieku. Później razem ze mną jeździł 2 - 3 razy w tygodniu na jarmarki i pomagał mi w sprzedaży szytej przeze mnie odzieży.",
   imgStart: false,
   img: img4,
   alt: "Mój tata",
