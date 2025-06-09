@@ -100,7 +100,7 @@ const SignIn = () => {
           <CgArrowBottomLeft />
         </ArrowIcon>
         <p>
-          Gulinek k. Zakrzewa - prywatna wieś szlachecka Zakrzów, położona była
+          Gulinek k. Zakrzewa - prywatna wieś szlachecka, położona była
           w&nbsp;drugiej połowie XVI wieku w&nbsp;powiecie radomskim województwa
           sandomierskiego.
         </p>
