@@ -54,9 +54,9 @@ const SignIn = () => {
           <Icon to="/">korzenie</Icon>
         </FormWrap>
         <ContainerH1>Praprzodkowie</ContainerH1>
-        <p>
-          Jaszowice - prywatna wieś szlachecka w drugiej połowie XVI wieku w
-          powiecie radomskim województwa sandomierskiego.
+        <p className="p">
+          <strong>Jaszowice</strong> - prywatna wieś szlachecka w drugiej
+          połowie XVI wieku w powiecie radomskim województwa sandomierskiego.
         </p>
         <br />
         <img src={img} alt="..." className="wies" />
@@ -99,10 +99,10 @@ const SignIn = () => {
         <ArrowIcon>
           <CgArrowBottomLeft />
         </ArrowIcon>
-        <p>
-          Gulinek k. Zakrzewa - prywatna wieś szlachecka, położona była
-          w&nbsp;drugiej połowie XVI wieku w&nbsp;powiecie radomskim województwa
-          sandomierskiego.
+        <p className="p">
+          <strong>Gulinek</strong> k. Zakrzewa - prywatna wieś szlachecka,
+          położona była w&nbsp;drugiej połowie XVI wieku w&nbsp;powiecie
+          radomskim województwa sandomierskiego.
         </p>
         <br />
         <img src={img2} alt="..." className="wies" />
