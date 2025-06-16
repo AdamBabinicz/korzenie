@@ -80,7 +80,7 @@ const Services = () => {
                   className="services__modal-close"
                 ></FaTimes>
                 <div className="services__modal-services grid">
-                  <img src={service.icon} alt="..." />
+                  <img src={service.icon} alt="..." loading="lazy" />
                 </div>
               </div>
             </div>
